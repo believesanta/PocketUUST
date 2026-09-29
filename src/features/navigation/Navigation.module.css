@@ -1,0 +1,374 @@
+.navigation { --ink:var(--text); --sub:var(--muted); --paper:var(--panel); --edge:var(--line); --map-bg:var(--map-surface); --route:var(--route-line); --route-active:var(--route-current); color:var(--ink); background:var(--paper); border-radius:16px; }
+.navigation p { max-width:none; }
+.navigation button { border-color:var(--edge); border-radius:12px; background:var(--paper); color:var(--ink); transition:background .16s, border-color .16s; }
+.navigation button:hover { background:var(--tint); border-color:var(--accent); }
+.navigation button:disabled { opacity:.45; cursor:default; }
+.navigation input, .navigation select { max-width:none; border:1px solid var(--edge); background:var(--paper); color:var(--ink); border-radius:12px; }
+.navigation input:focus, .navigation select:focus { border-color:var(--accent); }
+.navigation a { color:var(--accent); }
+.navigation :focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
+.hero { display:flex; justify-content:space-between; align-items:flex-start; gap:20px; padding:4px 0 18px; }
+.eyebrow { display:block; font-size:.64rem; line-height:1.5; font-weight:750; letter-spacing:.15em; color:var(--sub); margin-bottom:8px; }
+.hero h2 { font-size:clamp(1.6rem,3.3vw,2.35rem); font-weight:750; line-height:1.18; letter-spacing:-.045em; margin-bottom:10px; }
+.headingDot { color:var(--accent); }
+.hero p { color:var(--sub); font-size:.91rem; line-height:1.7; margin-bottom:0; }
+.navigation .themeButton { display:flex; gap:8px; align-items:center; flex-shrink:0; font-size:.82rem; border-radius:24px; background:var(--surface); }
+.limitNote { display:flex; gap:12px; align-items:center; padding:13px 16px; border-radius:14px; background:var(--tint); margin-bottom:22px; font-size:.8rem; }
+.limitNote > span { display:grid; place-items:center; color:var(--accent); font-size:1.6rem; width:28px; flex-shrink:0; }
+.limitNote p { margin:0; color:var(--sub); }
+.limitNote strong { color:var(--ink); }
+.modeTabs { display:inline-flex; max-width:100%; padding:4px; border-radius:15px; background:var(--surface); margin-bottom:18px; }
+.navigation .modeTabs button { background:transparent; border:0; font-size:.83rem; font-weight:650; padding:8px 18px; }
+.navigation .modeTabs button[aria-pressed="true"] { background:var(--paper); color:var(--ink); box-shadow:0 2px 8px #171d3010; }
+.routeForm { border:1px solid var(--edge); border-radius:16px; padding:16px; background:var(--surface); margin-bottom:20px; }
+.routeEntry { display:grid; grid-template-columns:minmax(0,1fr) auto; gap:18px; align-items:center; }
+.routeEntry > button { margin-top:0; }
+.routeOptions { border-top:1px solid var(--edge); margin-top:8px; padding-top:8px; font-size:.72rem; }
+.routeOptions summary { cursor:pointer; color:var(--ink); }
+.routeOptions summary > span { margin-left:12px; color:var(--sub); }
+.fields { display:grid; grid-template-columns:minmax(0,1fr) 44px minmax(0,1fr); gap:14px; align-items:center; }
+.pointField { min-width:0; }
+.pointField label { color:var(--sub); font-size:.8rem; margin-bottom:6px; }
+.pointField input { font-size:1.08rem; font-weight:650; height:50px; text-overflow:ellipsis; }
+.pointField input[aria-invalid="true"] { border-color:var(--warning); }
+.fieldHint, .invalidHint { display:block; font-size:.73rem; min-height:22px; margin:5px 0 0; color:var(--sub); }
+.invalidHint { color:var(--warning); }
+.navigation .swap { padding:0; font-size:1.4rem; height:44px; border-radius:50%; margin-top:3px; }
+.formBottom { display:flex; align-items:center; justify-content:space-between; gap:16px; margin-top:14px; }
+.switchLabel { display:flex; align-items:center; gap:10px; cursor:pointer; margin:0; font-size:.78rem; font-weight:600; position:relative; }
+.switchLabel small { display:block; color:var(--sub); font-size:.64rem; font-weight:400; }
+.switchLabel input { position:absolute; left:0; width:44px; height:28px; margin:0; opacity:0; cursor:pointer; }
+.switchTrack { width:44px; height:27px; border-radius:20px; background:#a7aec0; flex-shrink:0; padding:3px; pointer-events:none; }
+.switchTrack::after { content:''; display:block; width:21px; height:21px; border-radius:50%; background:#fff; transition:transform .16s; }
+.switchLabel input:checked + .switchTrack { background:var(--accent); }
+.switchLabel input:checked + .switchTrack::after { transform:translateX(17px); }
+.switchLabel input:focus-visible + .switchTrack { outline:3px solid var(--accent); outline-offset:4px; }
+.navigation .primary, .navigation .primaryLink { background:var(--accent-solid); color:var(--accent-ink); border:1px solid var(--accent-solid); border-radius:12px; padding:12px 18px; font-weight:650; font-size:.82rem; text-align:center; text-decoration:none; display:inline-flex; justify-content:center; gap:16px; align-items:center; min-height:46px; }
+.navigation .primary:hover, .navigation .primaryLink:hover { background:var(--accent-hover); }
+.formatHint { margin:13px 0 0; padding-top:12px; border-top:1px solid var(--edge); color:var(--sub); font-size:.7rem; }
+.formatHint b { color:var(--accent); }
+.quickRoutes { display:flex; flex-wrap:wrap; align-items:center; gap:6px; margin:12px 0 20px; font-size:.68rem; color:var(--sub); }
+.navigation .quickRoutes button { font-size:.71rem; min-height:36px; border-radius:20px; padding:4px 11px; background:var(--surface); }
+.workspace { display:grid; grid-template-columns:minmax(0,1fr); gap:18px; align-items:start; }
+.mapCard { border:1px solid var(--edge); border-radius:18px; overflow:hidden; position:relative; background:var(--paper); }
+.mapHeading { padding:18px 18px 12px; display:flex; gap:12px; align-items:center; justify-content:space-between; }
+.mapHeading h3 { font-size:1.03rem; letter-spacing:-.035em; margin-bottom:0; }
+.mapHeading .eyebrow { margin-bottom:5px; font-size:.59rem; }
+.mapBadge { background:var(--surface); border:1px solid var(--edge); border-radius:18px; padding:6px 8px; font-size:.59rem; color:var(--sub); white-space:nowrap; }
+.mapViewport { position:relative; background:var(--map-bg); overflow:hidden; }
+.mapStage { display:flex; align-items:center; justify-content:space-between; gap:24px; padding:24px; background:var(--command); color:#fff; }
+.stageDescription { min-width:0; flex:1; }
+.stageMeta { display:flex; align-items:center; flex-wrap:wrap; gap:8px 14px; color:var(--command-sub); font-size:.75rem; }
+.stageLevel { display:inline-block; padding:5px 10px; border-radius:7px; background:var(--command-chip); color:var(--command); font-size:.93rem; line-height:1.3; font-weight:750; }
+.stageDescription h3 { margin:12px 0 6px; font-size:clamp(1.15rem,2.4vw,1.55rem); line-height:1.25; letter-spacing:-.025em; overflow-wrap:anywhere; }
+.stageDescription p { color:var(--command-sub); font-size:.8rem; line-height:1.65; margin:0; max-width:63ch; }
+.mapPlayer { width:190px; flex-shrink:0; display:flex; flex-direction:column; gap:8px; }
+.stepActions { display:flex; gap:8px; }
+.navigation .stepActions button { min-width:44px; min-height:46px; padding:8px 12px; border-radius:10px; background:transparent; color:#fff; border-color:#738ba9; }
+.navigation .stepActions .nextStepButton { flex:1; display:flex; align-items:center; justify-content:space-between; gap:15px; background:#fff; color:var(--command); border-color:#fff; font-size:.9rem; font-weight:700; }
+.navigation .stepActions button:hover { background:var(--command-chip); color:var(--command); }
+.navigation .mapPlayer .previewButton { padding:8px 0; min-height:44px; border:0; background:transparent; color:var(--command-sub); font-size:.73rem; }
+.navigation .mapPlayer .previewButton:hover, .navigation .mapPlayer .previewButton[aria-pressed="true"] { color:var(--accent-ink); background:var(--accent-hover); }
+.mapStage :focus-visible { outline-color:#fff; }
+.campusSvg { display:block; width:100%; height:540px; color:var(--ink); }
+.mapViewControls { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; padding:14px 18px; border-bottom:1px solid var(--edge); background:var(--paper); }
+.mapAddress { color:var(--sub); font-size:.7rem; }
+.mapViewControls > div { display:flex; gap:6px; flex-wrap:wrap; }
+.navigation .mapViewControls button { font-size:.78rem; padding:7px 12px; }
+.navigation .mapViewControls button[aria-pressed="true"] { background:var(--tint); border-color:var(--accent); color:var(--accent); }
+.mapViewControls p { margin:0; font-size:.85rem; }
+.mapViewControls p strong, .mapViewControls p span { display:block; }
+.mapViewControls p span { font-size:.73rem; color:var(--sub); }
+.street path { fill:var(--map-street); }
+.street text { fill:var(--map-street-text); font-size:28px; font-weight:600; }
+.connectors path { fill:var(--map-edge); }
+.connectors .checkpointShape { fill:var(--command); }
+.building { cursor:pointer; outline:none; pointer-events:bounding-box; }
+.building > path { stroke:var(--map-bg); stroke-width:5px; transition:filter .2s; }
+.building:hover > path { filter:brightness(1.12); }
+.building:focus-visible > path, .building > .selectedBuilding { stroke:var(--ink); stroke-width:7px; }
+.building > .visitedBuilding { stroke:var(--accent); stroke-width:5px; }
+.currentBuilding > .visitedBuilding { stroke:var(--accent-solid); stroke-width:6px; filter:drop-shadow(0 0 5px #1682ff66); }
+.currentBuilding .buildingBadge circle { fill:var(--accent-solid); stroke:#fff; }
+.currentBuilding .buildingBadge text { fill:#fff; }
+.inactiveBuilding > path { opacity:.3; }
+.buildingBadge { pointer-events:none; }
+.buildingBadge circle { fill:var(--paper); stroke:var(--edge); stroke-width:1px; }
+.buildingBadge text { fill:var(--ink); font-weight:750; stroke:none; }
+.building text { pointer-events:none; }
+.entrance circle { fill:var(--paper); stroke:var(--muted); stroke-width:3; }
+.entrance path { fill:none; stroke:var(--muted); stroke-width:3; }
+.passageLabels rect { fill:var(--paper); stroke:var(--edge); stroke-width:2; }
+.passageLabels text { fill:var(--ink); font-size:21px; font-weight:650; }
+.currentPassageLabel rect { fill:var(--accent-solid); stroke:#fff; }
+.currentPassageLabel text { fill:#fff; }
+.blocked circle, .blocked path { fill:none; stroke:var(--text); stroke-width:4; }
+.unconfirmed path { fill:none; stroke:#d59c30; stroke-width:8; stroke-dasharray:9 8; }
+.unconfirmed text { font-size:19px; fill:var(--ink); }
+.landmark { cursor:pointer; }
+.landmark:focus-visible { outline:3px solid var(--accent); }
+.landmark text { font-size:25px; font-weight:600; fill:var(--sub); }
+.landmark .plane { font-size:75px; fill:var(--sub); }
+.landmark rect { fill:var(--command); }
+.landmark .entryText { fill:white; font-size:18px; }
+.stop text { fill:var(--sub); font-size:23px; }
+.stop { cursor:pointer; }
+.foodMarker { cursor:pointer; }
+.foodMarker circle { fill:var(--paper); stroke:var(--edge); stroke-width:2; }
+.foodMarker text { fill:var(--ink); font-size:27px; }
+.mapPoi text { fill:var(--sub); font-size:22px; }
+.routeLines { pointer-events:none; }
+.routeLines polyline, .availablePassage { fill:none; stroke-linejoin:round; stroke-linecap:round; }
+.availablePassage { stroke:#19b7bb; stroke-width:8; opacity:.45; }
+.routeHalo { stroke:#fff; stroke-width:15px; }
+.routeBorder { stroke:#253149; stroke-width:10px; }
+.routeBase { stroke:var(--route); stroke-width:6px; opacity:1; }
+.routeActive { stroke:var(--route-active); stroke-width:6px; stroke-dasharray:1; filter:drop-shadow(0 0 4px #1682ffb3); animation:routeReveal 1.2s ease both; }
+.otherFloorRoute { opacity:.22; }
+@keyframes routeReveal { from { stroke-dashoffset:1; } to { stroke-dashoffset:0; } }
+.outdoorLine { stroke-dasharray:12 8; }
+.arrowHalo, .routeArrow { fill:none; stroke-linecap:round; stroke-linejoin:round; }
+.arrowHalo { stroke:#fff; stroke-width:7px; }
+.routeArrow { stroke:#253149; stroke-width:3px; }
+.currentPoint { fill:var(--route-active); stroke:#fff; stroke-width:5; filter:drop-shadow(0 0 5px #1682ff99); }
+.currentRing { fill:none; stroke:var(--accent-solid); stroke-width:3px; filter:drop-shadow(0 0 4px #1682ffcc); }
+.startPoint { fill:var(--accent-solid); stroke:#fff; stroke-width:4; }
+.endPoint { fill:#d50057; stroke:#fff; stroke-width:4; }
+.routeLines text { fill:white; font-size:19px; font-weight:700; }
+.routePin rect { fill:#fff; stroke:#253149; stroke-width:2px; }
+.routePin .pinLetter { fill:#fff; font-size:24px; }
+.routePin .pinLabel { fill:#172039; font-size:27px; }
+.zoomTools { position:absolute; right:12px; bottom:12px; display:flex; gap:3px; border-radius:12px; padding:3px; background:var(--paper); box-shadow:0 2px 12px #1b234419; }
+.navigation .zoomTools button, .navigation .panTools button { padding:2px; min-width:36px; min-height:36px; border:0; font-size:1.15rem; }
+.panTools { position:absolute; left:10px; bottom:12px; display:flex; gap:2px; border-radius:12px; padding:3px; background:var(--paper); }
+.mapDialog { width:min(1200px,calc(100vw - 28px)); max-height:calc(100dvh - 28px); padding:16px; border:1px solid var(--edge); border-radius:20px; color:var(--ink); background:var(--paper); }
+.mapDialog::backdrop { background:#171c3a88; backdrop-filter:blur(4px); }
+.dialogHeading { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:12px; font-size:.85rem; }
+.mapDialog .campusSvg { height: min(65dvh,680px); }
+.mapFooter { padding:13px 16px; }
+.floorTabs { display:flex; gap:4px; flex-wrap:wrap; margin-bottom:12px; }
+.navigation .floorTabs button { min-height:35px; padding:4px 9px; font-size:.65rem; background:var(--surface); border:0; border-radius:9px; }
+.navigation .floorTabs button[aria-pressed="true"] { color:var(--accent); background:var(--tint); }
+.navigation .floorTabs button[aria-current="step"] { background:var(--accent-solid); color:var(--accent-ink); box-shadow:0 0 0 3px #064bc115; }
+.legend { display:flex; gap:14px; flex-wrap:wrap; font-size:.62rem; color:var(--sub); }
+.legend span { display:flex; align-items:center; gap:6px; }
+.legend i { display:inline-block; width:10px; height:10px; border-radius:50%; }
+.legendRoute { background:var(--route); }
+.legendActive { background:var(--route-active); }
+.legendDoor { background:var(--paper); border:2px solid var(--muted); }
+.legendBlocked { border:2px solid var(--sub); position:relative; }
+.legendBlocked::after { content:''; width:8px; height:1px; background:var(--sub); position:absolute; top:3px; left:-1px; transform:rotate(-45deg); }
+.mapFooter p { color:var(--sub); font-size:.73rem; line-height:1.6; margin:11px 0 0; }
+.mapFooter .mapDisclaimer { margin:0; }
+.mapDetails { margin-top:10px; font-size:.73rem; }
+.mapDetails summary { cursor:pointer; color:var(--sub); }
+.mapDetails .floorTabs { margin-top:14px; }
+.stairMarker circle { fill:var(--accent-solid); stroke:#fff; stroke-width:3px; }
+.stairMarker path { fill:none; stroke:#fff; stroke-width:3px; stroke-linecap:round; stroke-linejoin:round; }
+.journey { min-width:0; padding:0; }
+.journeyHeading { display:flex; justify-content:space-between; align-items:center; gap:8px; flex-wrap:wrap; }
+.journeyHeading h3 { margin:0; font-size:1.25rem; letter-spacing:-.03em; overflow-wrap:anywhere; }
+.journeyHeading h3 span { color:var(--sub); padding:0 8px; }
+.journeyHeading > span { font-size:.73rem; color:var(--sub); }
+.journeyStrip { position:relative; display:flex; list-style:none; margin:18px 0 0; padding:4px 4px 12px; overflow-x:auto; scrollbar-width:thin; scrollbar-color:var(--edge) transparent; }
+.journeyStrip li { flex:1 0 120px; min-width:0; position:relative; }
+.journeyStrip li:not(:last-child)::after { content:''; position:absolute; top:16px; left:50%; width:100%; height:3px; background:var(--edge); }
+.journeyStrip li[data-state="passed"]::after { background:var(--accent-solid); }
+.navigation .journeyStrip button { display:flex; flex-direction:column; align-items:center; position:relative; z-index:1; width:100%; padding:0 6px 8px; border:0; background:transparent; border-radius:6px; }
+.navigation .journeyStrip button:hover { background:var(--tint); }
+.journeyNode { display:grid; place-items:center; width:34px; height:34px; border-radius:50%; background:var(--paper); color:var(--sub); border:2px solid var(--edge); font-size:.8rem; font-weight:700; box-shadow:0 0 0 5px var(--paper); }
+.journeyStrip strong { display:block; font-size:.82rem; line-height:1.4; margin-top:12px; max-width:140px; overflow-wrap:anywhere; }
+.journeyStrip small { font-size:.72rem; color:var(--sub); margin-top:3px; }
+.journeyStrip li[data-state="current"] .journeyNode { background:var(--accent-solid); border-color:var(--accent-solid); color:var(--accent-ink); box-shadow:0 0 0 5px var(--paper),0 0 0 7px var(--route-halo); }
+.journeyStrip li[data-state="current"] strong { color:var(--accent); }
+.journeyStrip li[data-state="passed"] .journeyNode { color:var(--accent); border-color:var(--accent); }
+.journeyDetails { font-size:.75rem; color:var(--sub); }
+.journeyDetails summary { cursor:pointer; padding:8px 0; }
+.journeyDetails ol, .journeyDetails ul { padding-left:22px; }
+.journeyDetails strong { color:var(--ink); }
+.journeyDetails li { margin-top:12px; }
+.journeyDetails p { margin:3px 0; }
+.navigation[data-mode="campus"] .primary { background:var(--accent-solid); border-color:var(--accent-solid); }
+.navigation[data-mode="campus"] .building > path { fill:var(--map-building); stroke:var(--map-edge); stroke-width:2px; }
+.navigation[data-mode="campus"] .building > .visitedBuilding { fill:var(--map-visited); stroke:var(--map-visited-edge); stroke-width:2px; }
+.navigation[data-mode="campus"] .currentBuilding > .visitedBuilding { fill:var(--map-current); stroke:var(--accent-solid); stroke-width:3px; filter:none; }
+.navigation[data-mode="campus"] .building:focus-visible > path, .navigation[data-mode="campus"] .building > .selectedBuilding { stroke:var(--accent); stroke-width:7px; }
+.navigation[data-mode="campus"] .inactiveBuilding > path { opacity:.65; }
+.navigation[data-mode="campus"] .street path { fill:var(--map-street); }
+.navigation[data-mode="campus"] .street text { fill:var(--map-street-text); }
+.navigation[data-mode="campus"] .routeBorder { stroke:#fff; stroke-width:10px; }
+.navigation[data-mode="campus"] .routeHalo { stroke:var(--route-halo); stroke-width:13px; }
+.navigation[data-mode="campus"] .routeActive { stroke-width:7px; filter:drop-shadow(0 0 4px #4992ffaa); }
+.navigation[data-mode="campus"] .otherFloorRoute { opacity:.58; }
+.navigation[data-mode="campus"] .routeArrow { stroke:var(--route-arrow); }
+.buildingInfo { padding:12px 14px; border-top:1px solid var(--edge); display:flex; align-items:center; gap:10px; }
+.buildingInfo > div { flex:1; min-width:0; }
+.buildingInfo strong, .buildingInfo span { display:block; font-size:.72rem; }
+.buildingInfo span { color:var(--sub); font-size:.65rem; }
+.navigation .buildingInfo button { padding:5px 9px; min-height:36px; font-size:.72rem; }
+.stepsCard { border:1px solid var(--edge); background:var(--paper); border-radius:18px; padding:18px; min-width:0; }
+.stepsHeading h3 { font-size:1.1rem; line-height:1.45; letter-spacing:-.02em; overflow-wrap:anywhere; }
+.stepsHeading h3 > span { color:var(--sub); padding:0 4px; }
+.routeStats { font-size:.65rem; color:var(--sub); display:flex; gap:7px; flex-wrap:wrap; }
+.player { padding:14px 0 0; }
+.navigation .playButton { width:100%; background:var(--tint); color:var(--accent); border:0; font-size:.72rem; font-weight:650; padding:8px 6px; }
+.player > div { display:flex; align-items:center; justify-content:space-between; margin:7px 0; gap:4px; }
+.player > div span { font-size:.68rem; color:var(--sub); }
+.player > div button { padding:0 8px; min-height:33px; border:0; }
+.player progress { display:block; width:100%; height:4px; accent-color:var(--accent); border:0; border-radius:10px; overflow:hidden; }
+.player progress::-webkit-progress-bar { background:var(--edge); }
+.player progress::-webkit-progress-value { background:var(--accent); }
+.currentInstruction { background:var(--surface); padding:11px 12px; border-radius:10px; margin:14px 0 10px; font-size:.75rem; }
+.currentInstruction strong, .currentInstruction span { display:block; }
+.currentInstruction span { color:var(--sub); font-size:.65rem; }
+.steps { margin:0; padding:0; list-style:none; display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }
+.steps li { position:relative; }
+.steps li:not(:last-child)::after { display:none; }
+.navigation .steps button { display:flex; gap:10px; align-items:flex-start; text-align:left; border:1px solid transparent; padding:10px 5px; border-radius:10px; width:100%; }
+.stepNumber { width:25px; height:25px; flex-shrink:0; display:grid; place-items:center; background:var(--surface); color:var(--sub); border-radius:50%; font-size:.68rem; }
+.steps strong { display:block; font-size:.84rem; line-height:1.55; font-weight:650; }
+.steps small { display:block; font-size:.76rem; line-height:1.65; color:var(--sub); margin-top:3px; }
+.navigation .steps .activeStep { border-color:var(--edge); background:var(--tint); }
+.activeStep .stepNumber { background:var(--accent-solid); color:var(--accent-ink); }
+.completedStep .stepNumber { background:#e4f5ec; color:#286d52; }
+.routeNotes { border-top:1px solid var(--edge); margin-top:12px; padding-top:12px; font-size:.67rem; color:var(--sub); }
+.routeNotes summary { font-weight:650; cursor:pointer; color:var(--ink); }
+.routeNotes ul { padding-left:16px; }
+.routeNotes li { margin-bottom:9px; }
+.routeNotes p { margin-bottom:0; }
+.routeActions { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-top:14px; }
+.navigation .routeActions button { font-size:.75rem; min-height:40px; background:var(--surface); }
+.routeActions > span { color:var(--sub); font-size:.65rem; }
+.status { font-size:.75rem; color:var(--accent); margin:8px 0 0; min-height:4px; }
+.emptyCard { background:var(--surface); border:1px dashed var(--edge); border-radius:18px; padding:30px 20px; text-align:center; }
+.emptyIcon { font-size:2rem; color:var(--accent); margin-bottom:14px; }
+.emptyCard h3 { font-size:1rem; }
+.emptyCard p { font-size:.8rem; color:var(--sub); }
+.navigation .secondary { font-size:.75rem; border-color:var(--edge); background:var(--surface); }
+.error, .scheduleNotice { padding:16px; background:var(--surface); border:1px solid #d07b64; border-radius:12px; font-size:.8rem; margin:0 0 20px; }
+.error p, .scheduleNotice p { margin:0; }
+.error button { margin-top:10px; font-size:.75rem; }
+.dormForm { display:grid; grid-template-columns:minmax(0,1.15fr) minmax(0,1fr); gap:20px; padding:20px; background:var(--surface); border-radius:18px; border:1px solid var(--edge); margin-bottom:22px; }
+.dormForm label { font-size:.78rem; }
+.dormForm select { font-size:.85rem; min-height:48px; }
+.dormDestination { border-left:1px solid var(--edge); padding:6px 0 6px 20px; }
+.dormDestination strong, .dormDestination > span:last-child { display:block; }
+.dormDestination > span:last-child { font-size:.73rem; color:var(--sub); margin-top:5px; }
+.dormCard { padding:20px; border:1px solid var(--edge); border-radius:18px; }
+.dormCard h3 { font-size:1.12rem; letter-spacing:-.035em; line-height:1.4; }
+.citySteps { list-style:none; padding:0; margin:20px 0; }
+.citySteps li { display:flex; gap:12px; margin-bottom:16px; }
+.citySteps li > span { color:var(--accent); font-weight:650; font-size:.8rem; line-height:1.6; }
+.citySteps strong { font-size:.77rem; }
+.citySteps p { font-size:.7rem; color:var(--sub); margin:4px 0 0; }
+.dormCard .primaryLink, .dormCard .secondary { width:100%; margin-bottom:8px; }
+.smallNote { font-size:.65rem; color:var(--sub); margin:8px 0 0; }
+.cityRoutes { min-width:0; }
+.cityHeading h3 { font-size:1.18rem; letter-spacing:-.035em; margin:0; }
+.cityHeading p { color:var(--sub); font-size:.8rem; margin:5px 0 16px; }
+.cityOptions { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:8px; margin-bottom:14px; }
+.navigation .cityOptions button { display:flex; align-items:flex-start; gap:10px; text-align:left; padding:14px 12px; min-width:0; border-radius:12px; }
+.cityOptions svg { width:22px; height:22px; flex-shrink:0; margin-top:2px; }
+.cityOptions strong { display:block; font-size:.81rem; line-height:1.45; }
+.cityOptions small { display:block; font-size:.67rem; line-height:1.6; color:var(--sub); margin-top:4px; }
+.navigation .cityOptions button[aria-pressed="true"] { background:var(--tint); border-color:var(--accent); color:var(--accent); }
+.citySelected { border:1px solid var(--edge); border-radius:16px; overflow:hidden; background:var(--paper); }
+.cityDiagram { background:var(--map-bg); padding:12px 18px 14px; border-bottom:1px solid var(--edge); }
+.cityDiagram > svg { display:block; width:100%; max-height:230px; }
+.diagramRoads path { fill:none; stroke:var(--edge); stroke-width:12px; opacity:.6; }
+.diagramWalk, .diagramRide { fill:none; stroke-linecap:round; stroke-linejoin:round; stroke-width:6px; }
+.diagramWalk { stroke:var(--sub); stroke-dasharray:3 10; }
+.diagramRide { stroke:var(--accent-solid); }
+.diagramStop { fill:var(--paper); stroke:var(--accent-solid); stroke-width:4px; }
+.diagramStart { fill:var(--accent-solid); stroke:#fff; stroke-width:3px; }
+.diagramFinish { fill:#d50057; stroke:#fff; stroke-width:3px; }
+.cityDiagram text { fill:#fff; font-size:18px; font-weight:700; }
+.diagramVehicle { fill:var(--accent-solid); }
+.diagramLabels { display:grid; grid-template-columns:1fr 1fr 1fr; gap:14px; }
+.diagramLabels > span:last-child { text-align:right; }
+.diagramLabels > span:nth-child(2) { text-align:center; display:flex; flex-direction:column; align-items:center; }
+.diagramLabels svg { width:22px; height:22px; }
+.diagramLabels b { display:block; font-size:.82rem; }
+.diagramLabels small { display:block; font-size:.73rem; color:var(--sub); line-height:1.5; margin-top:3px; }
+.diagramCaption { display:flex; justify-content:space-between; flex-wrap:wrap; gap:7px; color:var(--sub); font-size:.65rem; margin:16px 0 0; }
+.diagramCaption > span { display:flex; align-items:center; gap:6px; }
+.diagramCaption i { width:12px; border-top:3px dotted var(--sub); }
+.diagramCaption i:last-child { border-top:3px solid var(--accent-solid); margin-left:8px; }
+.cityTimeline { list-style:none; margin:0; padding:20px 24px 8px; }
+.cityTimeline > li { display:flex; align-items:flex-start; gap:16px; position:relative; padding:0 0 22px; }
+.cityTimeline > li:not(:last-child)::after { content:''; position:absolute; top:39px; bottom:5px; left:17px; border-left:2px dotted var(--edge); }
+.cityLegIcon { display:grid; place-items:center; width:36px; height:36px; border-radius:10px; flex-shrink:0; background:var(--surface); color:var(--sub); }
+.cityLegIcon svg { width:23px; height:23px; }
+.cityTimeline > li[data-kind="bus"] .cityLegIcon, .cityTimeline > li[data-kind="tram"] .cityLegIcon { background:var(--accent-solid); color:var(--accent-ink); }
+.cityTimeline li > div { min-width:0; flex:1; }
+.cityTimeline strong { font-size:.88rem; }
+.cityTimeline p { font-size:.8rem; margin:3px 0 0; line-height:1.6; }
+.cityTimeline small { display:block; font-size:.73rem; color:var(--sub); margin-top:2px; }
+.navigation .legDetailsButton { border:0; min-height:30px; font-size:.7rem; color:var(--accent); padding:4px 0; text-align:left; background:transparent; margin-top:2px; }
+.legDetails { padding-top:5px; }
+.legDetails p { font-size:.75rem; color:var(--sub); }
+.legDetails a { display:block; width:fit-content; margin-top:8px; font-size:.75rem; }
+.cityActions { display:flex; gap:8px; flex-wrap:wrap; padding:0 24px 12px; }
+.cityNote { margin:0; padding:0 24px 18px; color:var(--sub); font-size:.72rem; line-height:1.65; }
+.citySources { border-top:1px solid var(--edge); padding:14px 24px; font-size:.73rem; color:var(--sub); }
+.citySources summary { color:var(--ink); cursor:pointer; }
+.citySources p { margin:12px 0 0; }
+.citySources ul { padding-left:16px; }
+.saved { margin-top:22px; padding-top:20px; border-top:1px solid var(--edge); }
+.saved h3 { font-size:.85rem; }
+.saved h3 span { font-size:.65rem; color:var(--sub); margin-left:8px; }
+.saved > div { display:flex; flex-wrap:wrap; gap:8px; }
+.savedRoute { display:flex; gap:0; border:1px solid var(--edge); border-radius:12px; }
+.navigation .savedRoute button { border:0; background:transparent; font-size:.72rem; text-align:left; }
+.savedRoute button:first-child { max-width:280px; overflow-wrap:anywhere; }
+.savedRoute button:last-child { color:var(--sub); padding:8px 12px; }
+.savedRoute small { display:block; color:var(--sub); font-size:.62rem; }
+.places { margin-top:34px; padding-top:24px; border-top:1px solid var(--edge); }
+.sectionHeading { display:flex; gap:18px; align-items:center; justify-content:space-between; margin-bottom:18px; }
+.sectionHeading h3 { letter-spacing:-.035em; font-size:1.16rem; }
+.sectionHeading p { font-size:.73rem; color:var(--sub); margin-bottom:0; }
+.sectionHeading > div:last-child { min-width:220px; }
+.sectionHeading input { font-size:.73rem; }
+.placesGrid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:10px; }
+.placeCard { border:1px solid var(--edge); border-radius:14px; overflow:hidden; }
+.navigation .placeCard > button { border:0; width:100%; display:flex; text-align:left; gap:10px; align-items:flex-start; padding:14px 12px; height:100%; background:var(--surface); }
+.placeCard:has(>a) > button { height:auto; }
+.placeIcon { display:grid; place-items:center; color:var(--accent); font-size:1.25rem; flex-shrink:0; width:25px; height:27px; }
+.placeCard button > span:nth-child(2) { flex:1; min-width:0; }
+.placeCard button > span:last-child { color:var(--sub); font-size:.75rem; }
+.placeCard strong { display:block; font-size:.76rem; line-height:1.5; }
+.placeCard small { display:block; font-size:.64rem; color:var(--sub); line-height:1.55; margin-top:5px; }
+.placeCard > a { display:block; font-size:.58rem; padding:0 12px 10px; background:var(--surface); }
+.faq { margin-top:32px; padding-top:24px; border-top:1px solid var(--edge); }
+.faq h3 { font-size:1.12rem; letter-spacing:-.035em; margin-bottom:16px; }
+.faq details { border-bottom:1px solid var(--edge); padding:14px 0; }
+.faq summary { cursor:pointer; font-size:.82rem; font-weight:600; line-height:1.6; padding-right:10px; }
+.faq details p { font-size:.75rem; color:var(--sub); margin:12px 0 3px; padding:0 16px; }
+.sources { margin-top:24px; padding:16px; border-radius:12px; background:var(--surface); font-size:.73rem; color:var(--sub); }
+.sources summary { color:var(--ink); cursor:pointer; font-weight:600; }
+.sources p { margin:14px 0; }
+.sources img { display:block; width:100%; height:auto; margin-top:18px; border-radius:8px; }
+.srOnly { position:absolute; width:1px; height:1px; padding:0; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+@media (max-width:850px) { .campusSvg { height:520px; } .steps { grid-template-columns:1fr 1fr; } .placesGrid { grid-template-columns:repeat(2,minmax(0,1fr)); } .cityOptions { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width:600px) {
+  .hero { padding-top:3px; gap:10px; } .hero h2 { font-size:1.65rem; max-width:300px; } .hero p { font-size:.8rem; } .hero .eyebrow { font-size:.56rem; } .navigation .themeButton { padding:6px 10px; } .themeButton span { display:none; }
+  .limitNote { padding:11px; gap:8px; font-size:.7rem; } .limitNote strong { display:block; }
+  .modeTabs { width:100%; } .navigation .modeTabs button { flex:1; padding:8px 7px; font-size:.76rem; }
+  .routeForm { padding:14px; } .fields { grid-template-columns:minmax(0,1fr) 36px minmax(0,1fr); gap:6px; } .pointField input { padding:9px; font-size:.86rem; } .fieldHint, .invalidHint { font-size:.62rem; line-height:1.6; } .navigation .swap { height:36px; min-height:36px; }
+  .routeEntry { grid-template-columns:minmax(0,1fr); gap:8px; } .routeOptions summary > span { display:block; margin:3px 0 0 14px; } .routeOptions { font-size:.69rem; }
+  .formBottom { flex-direction:column; align-items:stretch; gap:16px; } .switchLabel { font-size:.77rem; } .switchLabel small { font-size:.62rem; } .formatHint { font-size:.64rem; }
+  .mapHeading { padding:14px 12px 8px; gap:6px; } .mapHeading h3 { font-size:.92rem; } .mapBadge { font-size:.52rem; padding:4px 6px; } .campusSvg { height:420px; } .mapFooter { padding:12px; } .mapFooter p { font-size:.72rem; }
+  .mapViewControls { padding:10px; gap:8px; } .navigation .mapViewControls button { font-size:.7rem; padding:5px 8px; } .mapViewControls p { font-size:.8rem; } .mapAddress { display:none; }
+  .navigation .zoomTools button, .navigation .panTools button { min-height:44px; min-width:40px; } .legend { gap:10px; font-size:.57rem; } .workspace { gap:14px; }
+  .mapStage { padding:18px 15px; flex-direction:column; align-items:stretch; gap:14px; } .stageDescription { width:100%; } .stageLevel { font-size:.85rem; padding:5px 8px; } .stageMeta { font-size:.68rem; gap:8px; } .stageDescription h3 { font-size:1.25rem; } .stageDescription p { font-size:.75rem; } .mapPlayer { width:100%; gap:5px; } .stepActions { flex:1; } .navigation .mapPlayer .previewButton { min-height:40px; } .journeyHeading h3 { font-size:1.08rem; } .journeyHeading > span { font-size:.7rem; } .journeyStrip li { flex-basis:108px; } .journeyStrip strong { font-size:.76rem; } .journeyStrip small { font-size:.67rem; } .journeyDetails { font-size:.7rem; }
+  .cityHeading h3 { font-size:1rem; line-height:1.5; } .cityOptions { gap:7px; } .navigation .cityOptions button { padding:11px 9px; gap:7px; } .cityOptions strong { font-size:.75rem; } .cityOptions small { font-size:.66rem; } .cityOptions svg { width:19px; height:19px; }
+  .cityDiagram { padding:9px 12px 12px; } .diagramLabels { grid-template-columns:1fr 1fr; gap:10px; } .diagramLabels > span:nth-child(2) { grid-row:2; grid-column:1/-1; flex-direction:row; justify-content:center; gap:8px; } .diagramLabels small { font-size:.71rem; } .diagramLabels b { font-size:.78rem; } .diagramCaption { font-size:.63rem; }
+  .cityTimeline { padding:18px 14px 5px; } .cityTimeline > li { gap:12px; padding-bottom:18px; } .cityTimeline strong { font-size:.82rem; } .cityTimeline p { font-size:.76rem; } .cityTimeline small { font-size:.69rem; } .navigation .legDetailsButton { min-height:40px; }
+  .cityActions { padding:0 14px 10px; flex-direction:column; } .cityNote { padding:0 14px 16px; font-size:.69rem; } .citySources { padding:14px; font-size:.7rem; }
+  .panTools { bottom:58px; } .mapDialog { padding:10px; }
+  .stepsCard { padding:15px; } .steps { grid-template-columns:1fr; } .steps strong { font-size:.8rem; } .steps small { font-size:.71rem; } .player > div button { min-height:44px; } .navigation .playButton { font-size:.79rem; }
+  .dormForm { grid-template-columns:1fr; padding:16px; gap:14px; } .dormDestination { border-left:0; border-top:1px solid var(--edge); padding:14px 0 0; } .dormDestination .eyebrow { margin-bottom:4px; } .dormCard { padding:16px; }
+  .sectionHeading { flex-direction:column; align-items:stretch; gap:12px; } .sectionHeading > div:last-child { min-width:0; } .placesGrid { grid-template-columns:1fr; } .placeCard strong { font-size:.84rem; } .placeCard small { font-size:.72rem; } .placeCard > a { font-size:.65rem; }
+  .routeActions > span { width:100%; } .navigation .routeActions button { font-size:.72rem; flex:1; padding:8px 9px; } .faq summary { font-size:.77rem; } .savedRoute { width:100%; } .savedRoute button:first-child { flex:1; max-width:none; }
+}
+@media (prefers-reduced-motion:reduce) { .navigation *, .navigation *::after { transition:none!important; animation:none!important; scroll-behavior:auto!important; } }

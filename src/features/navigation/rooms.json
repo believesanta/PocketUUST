@@ -1,0 +1,12 @@
+[
+  {
+    "roomId": "demo:1:101",
+    "number": "101",
+    "building": "Учебный корпус (вымышленный)",
+    "floor": "1",
+    "description": "Пример карточки аудитории. План этажа и координаты ещё не добавлены.",
+    "sourceUrl": null,
+    "checkedAt": null,
+    "isDemo": true
+  }
+]

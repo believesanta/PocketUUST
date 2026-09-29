@@ -1,0 +1,23 @@
+[Unit]
+Description=PocketUUST website
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=YOUR_LINUX_USER
+WorkingDirectory=/home/YOUR_LINUX_USER/projects/PocketUUST
+Environment=NODE_ENV=production
+Environment=HOST=127.0.0.1
+Environment=PORT=3000
+Environment=CAMPUS_REGISTRATION_ENABLED=false
+Environment=CAMPUS_EMAIL_DOMAINS=stud.uust.ru
+ExecStart=/ABSOLUTE/PATH/TO/node --env-file-if-exists=.env scripts/serve.mjs
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

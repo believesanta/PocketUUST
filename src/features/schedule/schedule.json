@@ -1,0 +1,12 @@
+{
+  "group": "ДЕМО-01 (вымышленная группа)",
+  "weekStart": "2026-09-21",
+  "weekEnd": "2026-09-27",
+  "sourceUrl": null,
+  "checkedAt": null,
+  "isDemo": true,
+  "lessons": [
+    { "id": "demo-lesson-1", "date": "2026-09-21", "startTime": "09:00", "endTime": "10:30", "subject": "Учебное занятие", "teacher": "Преподаватель не указан", "roomId": "demo:1:101" },
+    { "id": "demo-lesson-2", "date": "2026-09-22", "startTime": "11:00", "endTime": "12:30", "subject": "Пример занятия без аудитории", "teacher": "Преподаватель не указан", "roomId": null }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "faculties": [
+    {
+      "id": "faculty-0",
+      "short": "ВУЦ",
+      "name": "Военный учебный центр при ФГБОУ ВО «УУНиТ»",
+      "url": "https://uust.ru/education/vuc"
+    },
+    {
+      "id": "faculty-1",
+      "short": "ИГСН",
+      "name": "Институт гуманитарных и социальных наук",
+      "url": "https://uust.ru/education/igsn"
+    },
+    {
+      "id": "faculty-2",
+      "short": "ИИМРТ",
+      "name": "Институт информатики, математики и робототехники",
+      "url": "https://uust.ru/education/iimrt"
+    },
+    {
+      "id": "faculty-3",
+      "short": "ИИГУ",
+      "name": "Институт истории и государственного управления",
+      "url": "https://uust.ru/education/iigu"
+    },
+    {
+      "id": "faculty-4",
+      "short": "ИП",
+      "name": "Институт права",
+      "url": "https://uust.ru/education/ip"
+    },
+    {
+      "id": "faculty-5",
+      "short": "ИПЧ",
+      "name": "Институт природы и человека",
+      "url": "https://uust.ru/education/ipch"
+    },
+    {
+      "id": "faculty-6",
+      "short": "ИТМ",
+      "name": "Институт технологий и материалов",
+      "url": "https://uust.ru/education/itm"
+    },
+    {
+      "id": "faculty-7",
+      "short": "ИХЗЧС",
+      "name": "Институт химии и защиты в чрезвычайных ситуациях",
+      "url": "https://uust.ru/education/ihzchs"
+    },
+    {
+      "id": "faculty-8",
+      "short": "ИНЭБ",
+      "name": "Институт экономики, управления и бизнеса",
+      "url": "https://uust.ru/education/ineb"
+    },
+    {
+      "id": "faculty-9",
+      "short": "ИЭТИ",
+      "name": "Институт электротехнического инжиниринга",
+      "url": "https://uust.ru/education/ieti"
+    },
+    {
+      "id": "faculty-10",
+      "short": "ПИШ",
+      "name": "Передовая инженерная школа «Моторы будущего»",
+      "url": "https://uust.ru/education/pish"
+    },
+    {
+      "id": "faculty-11",
+      "short": "ФАДЭТ",
+      "name": "Факультет авиационных двигателей, энергетики и транспорта",
+      "url": "https://uust.ru/education/fadet"
+    },
+    {
+      "id": "faculty-12",
+      "short": "ФБФВиЖ",
+      "name": "Факультет башкирской филологии, востоковедения и журналистики",
+      "url": "https://uust.ru/education/fbfvizh"
+    },
+    {
+      "id": "faculty-13",
+      "short": "ФПИК при УМПО",
+      "name": "Факультет подготовки инженерных кадров при ПАО «ОДК-УМПО»",
+      "url": "https://uust.ru/education/fpik"
+    },
+    {
+      "id": "faculty-14",
+      "short": "ФТИ",
+      "name": "Физико-технический институт",
+      "url": "https://uust.ru/education/fti"
+    }
+  ],
+  "staff": [
+    {
+      "id": "admin-0",
+      "facultyId": "faculty-0",
+      "name": "Сотников Евгений Аркадьевич",
+      "role": "Начальник",
+      "phones": [
+        "+7-917-780-92-02"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-1",
+      "facultyId": "faculty-1",
+      "name": "Газизов Рафаэль Аркадьевич",
+      "role": "И.о. директора института",
+      "phones": [
+        "+7-917-780-91-89"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-2",
+      "facultyId": "faculty-2",
+      "name": "Кривошеева Олеся Александровна",
+      "role": "Директор института",
+      "phones": [
+        "+7-917-780-90-40",
+        "+7-917-780-93-42"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-3",
+      "facultyId": "faculty-3",
+      "name": "Уразова Амина Ильдусовна",
+      "role": "Директор института",
+      "phones": [
+        "+7-917-780-74-82"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-4",
+      "facultyId": "faculty-4",
+      "name": "Зайнуллин Руслан Ильдарович",
+      "role": "Директор института",
+      "phones": [
+        "+7-917-780-79-58"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-5",
+      "facultyId": "faculty-5",
+      "name": "Шарафутдинова Люция Ахтямовна",
+      "role": "Директор института",
+      "phones": [
+        "+7-917-780-28-98"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-6",
+      "facultyId": "faculty-6",
+      "name": "Хусаинов Юлдаш Гамирович",
+      "role": "Директор института",
+      "phones": [
+        "+7-917-780-92-72"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-7",
+      "facultyId": "faculty-7",
+      "name": "Елизарьев Алексей Николаевич",
+      "role": "И.о. директора института",
+      "phones": [
+        "+7-917-780-93-30"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-8",
+      "facultyId": "faculty-8",
+      "name": "Гришин Константин Евгеньевич",
+      "role": "И.о. директора института",
+      "phones": [
+        "+7-917-780-57-90"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-9",
+      "facultyId": "faculty-9",
+      "name": "Уразбахтина Юлия Олеговна",
+      "role": "Директор института",
+      "phones": [
+        "+7-917-780-92-99"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-10",
+      "facultyId": "faculty-10",
+      "name": "Охотников Михаил Валерьевич",
+      "role": "Директор института",
+      "phones": [
+        "+7-917-470-10-49"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-11",
+      "facultyId": "faculty-11",
+      "name": "Ахмедзянов Дмитрий Альбертович",
+      "role": "Декан факультета",
+      "phones": [
+        "+7-917-780-93-05"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-12",
+      "facultyId": "faculty-12",
+      "name": "Абдуллина Гульфира Рифовна",
+      "role": "Декан факультета",
+      "phones": [
+        "+7-917-780-40-36"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-13",
+      "facultyId": "faculty-13",
+      "name": "Киреев Радик Маратович",
+      "role": "Декан факультета",
+      "phones": [
+        "+7-908-350-22-98"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    },
+    {
+      "id": "admin-14",
+      "facultyId": "faculty-14",
+      "name": "Канафин Ильдар Вакифович",
+      "role": "И.о. директора института",
+      "phones": [
+        "+7-917-780-86-84"
+      ],
+      "sourceUrl": "https://uust.ru/admission/contacts/",
+      "contactNote": "Контакт подразделения для приёмной кампании; не личный телефон сотрудника."
+    }
+  ]
+}

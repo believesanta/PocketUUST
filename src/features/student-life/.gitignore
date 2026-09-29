@@ -1,0 +1,5 @@
+student-life.last-success.json
+student-life.json.tmp
+.fetch-news.lock
+.fetch-news.lock.*.candidate
+assets/*.tmp

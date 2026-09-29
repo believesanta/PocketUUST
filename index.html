@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      ;(() => {
+        let theme = 'light'
+        try {
+          const saved = localStorage.getItem('pocketuust.theme.v1')
+          if (['light', 'dark', 'uunit', 'pixel'].includes(saved)) theme = saved
+          else if (
+            saved === null &&
+            localStorage.getItem('pocketuust.navigation.theme.v1') === 'dark'
+          )
+            theme = 'dark'
+        } catch {}
+        document.documentElement.dataset.theme = theme
+      })()
+    </script>
+    <meta name="theme-color" content="#2458a6" />
+    <meta
+      name="description"
+      content="PocketUUST — учебный студенческий проект: аудитории, расписание и студенческая жизнь."
+    />
+    <title>PocketUUST</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

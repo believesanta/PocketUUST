@@ -1,0 +1,2270 @@
+{
+  "events": [
+    {
+      "id": "event-kod",
+      "title": "Код УУНиТ: наука о медицинских имплантатах",
+      "summary": "Открытая научно-популярная лекция о материалах и покрытиях имплантатов. Для студентов любых направлений; регистрация по ссылке в анонсе.",
+      "group": "События",
+      "tags": [
+        "Наука",
+        "Кампус"
+      ],
+      "sourceUrl": "https://uust.ru/events/get/v-uunit-startuet-kod-uunit-novyj-nauchno-populyarnyj-proekt-dlya-studentov",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/event-kod-72e3d654.jpg",
+      "steps": [],
+      "eventDate": "2026-09-29T13:10:00+05:00",
+      "eventEndDate": "2026-09-29T14:10:00+05:00",
+      "location": "Карла Маркса, 12, корпус 9, аудитория 101",
+      "dateNote": "Время и место подтверждены анонсом. Перед посещением проверьте изменения.",
+      "imageSourceUrl": "https://uust.ru/media/press-center/events/covers/2026/09/55b97b2e-c5f1-4163-a591-904c946c2cff.jpg",
+      "imageKind": "Афиша из источника",
+      "imageAlt": "Афиша из источника: Код УУНиТ: наука о медицинских имплантатах"
+    },
+    {
+      "id": "event-youth",
+      "title": "Премия «Время молодых»: приём заявок",
+      "summary": "Республиканская премия молодёжных достижений: индивидуальные и командные номинации. Сначала проверьте требования своей номинации.",
+      "group": "События",
+      "tags": [
+        "Карьера",
+        "Волонтёрство"
+      ],
+      "sourceUrl": "https://uust.ru/events/get/glavnaya-molodyozhnaya-respublikanskaya-premiya-vremya-molodyh",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/event-youth-de1de9fe.webp",
+      "steps": [],
+      "eventDate": "2026-10-28",
+      "eventEndDate": null,
+      "location": "Подача заявки онлайн",
+      "dateNote": "28 октября — последний день приёма заявок, а не дата церемонии.",
+      "imageSourceUrl": "https://uust.ru/media/press-center/events/covers/2026/09/5808c1b2913168e66cf37cb199cfeee5.jpg",
+      "imageKind": "Афиша из источника",
+      "imageAlt": "Афиша из источника: Премия «Время молодых»: приём заявок"
+    },
+    {
+      "id": "event-materials",
+      "title": "Физика и технология перспективных материалов",
+      "summary": "Научная конференция для специалистов и молодых исследователей. Возможность познакомиться с исследованиями; порядок участия уточняйте в программе.",
+      "group": "События",
+      "tags": [
+        "Наука"
+      ],
+      "sourceUrl": "https://uust.ru/events/get/mezhdunarodnaya-konferenciya-fizika-i-tehnologiya-perspektivnyh-materialov",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [],
+      "eventDate": "2026-10-04",
+      "eventEndDate": "2026-10-09",
+      "location": "Место и формат — в программе организаторов",
+      "dateNote": "Даты проведения подтверждены; условия посещения уточняйте у организаторов.",
+      "imageSourceUrl": null,
+      "imageKind": "Афиша из источника"
+    },
+    {
+      "id": "event-humanities",
+      "title": "Диалог времён: гуманитарные науки",
+      "summary": "Конференция о культуре, литературе, истории и медиа. Приглашаются в том числе студенты; оформление участия — по официальному анонсу.",
+      "group": "События",
+      "tags": [
+        "Наука",
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/events/get/mezhdunarodnaya-nauchno-prakticheskaya-konferenciya-dialog-vremen-nasledie-dostizheniya-i-innovacii-v-oblasti-gumanitarnyh-nauk",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/event-humanities-44fa1717.jpg",
+      "steps": [],
+      "eventDate": "2026-11-27",
+      "eventEndDate": null,
+      "location": "Заки Валиди, 32, аудитория 425",
+      "dateNote": "Время начала не указано в подборке; проверьте программу.",
+      "imageSourceUrl": "https://uust.ru/media/press-center/events/covers/2026/09/000DSC_7915.jpg",
+      "imageKind": "Афиша из источника",
+      "imageAlt": "Афиша из источника: Диалог времён: гуманитарные науки"
+    },
+    {
+      "id": "event-math",
+      "title": "Уфимская осенняя математическая школа",
+      "summary": "Научная конференция с докладами и обзорными лекциями. Подача тезисов завершилась: возможность участия слушателем нужно уточнить.",
+      "group": "События",
+      "tags": [
+        "Наука"
+      ],
+      "sourceUrl": "https://uust.ru/events/get/v-uunit-projdet-mezhdunarodnaya-nauchnaya-konferenciya-ufimskaya-osennyaya-matematicheskaya-shkola",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/event-math-19e72a9b.jpg",
+      "steps": [],
+      "eventDate": "2026-09-29",
+      "eventEndDate": "2026-10-02",
+      "location": "Заки Валиди, 32",
+      "dateNote": "Регистрация докладов завершилась 10 сентября. Не обещаем свободный вход.",
+      "imageSourceUrl": "https://uust.ru/media/press-center/events/covers/2026/06/image-20251010141531-3.jpeg",
+      "imageKind": "Афиша из источника",
+      "imageAlt": "Афиша из источника: Уфимская осенняя математическая школа"
+    },
+    {
+      "id": "event-education",
+      "title": "Педагоги России: инновации в образовании",
+      "summary": "Форум для педагогов и специалистов образования. Студентам педагогических направлений стоит сначала уточнить возможность участия.",
+      "group": "События",
+      "tags": [
+        "Наука",
+        "Карьера"
+      ],
+      "sourceUrl": "https://uust.ru/events/get/regionalnyj-etap-vserossijskogo-foruma-pedagogi-rossii-innovacii-v-obrazovanii",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/event-education-3d9285cc.jpg",
+      "steps": [],
+      "eventDate": "2026-10-01",
+      "eventEndDate": "2026-10-02",
+      "location": "Заки Валиди, 32",
+      "dateNote": "Событие рассчитано прежде всего на специалистов. Регистрация и потоки — в источнике.",
+      "imageSourceUrl": "https://uust.ru/media/press-center/events/covers/2026/09/-_0.jpg",
+      "imageKind": "Афиша из источника",
+      "imageAlt": "Афиша из источника: Педагоги России: инновации в образовании"
+    },
+    {
+      "id": "event-science-hub",
+      "title": "Science Slam и «ПрофВзлёт»",
+      "summary": "Следите за научно-популярными выступлениями и образовательными встречами в официальных сообществах. Новую дату узнавайте у организаторов.",
+      "group": "Где искать",
+      "tags": [
+        "Наука",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/smu/health_smu/",
+      "sourceName": "Совет молодых учёных УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [],
+      "links": [
+        {
+          "label": "Science Slam ВКонтакте",
+          "url": "https://vk.com/science_slam_uust"
+        },
+        {
+          "label": "ПрофВзлёт в Telegram",
+          "url": "https://t.me/profvzlet"
+        }
+      ],
+      "dateNote": "Это источники новых анонсов, не событие с назначенной датой."
+    }
+  ],
+  "clubs": [
+    {
+      "id": "club-yashlek",
+      "title": "Ансамбль народного танца «Йешлек»",
+      "summary": "Народные танцы: башкирские, русские, татарские и другие. Подойдёт тем, кто хочет выступать и знакомиться с культурой через движение.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/yashlek/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-yashlek-9123508a.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/iyeshlek/photo_scene_1.jpg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Ансамбль народного танца «Йешлек»"
+    },
+    {
+      "id": "club-allegro",
+      "title": "Ансамбль спортивного бального танца «Аллегро»",
+      "summary": "Спортивные бальные танцы и классические танцевальные номера. Условия набора и занятий уточняйте у коллектива.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/allegro/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-allegro-3ac6a4c4.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/allegro/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Ансамбль спортивного бального танца «Аллегро»"
+    },
+    {
+      "id": "club-irandek",
+      "title": "Заслуженный коллектив народного творчества РБ Народный ансамбль танца «Ирандек»",
+      "summary": "Народный ансамбль танца с многолетней историей. Сценические постановки, репетиции и участие в творческих фестивалях.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/irandek/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-irandek-1d8e995b.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/club946110",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/irandek/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Заслуженный коллектив народного творчества РБ Народный ансамбль танца «Ирандек»"
+    },
+    {
+      "id": "club-aitugan",
+      "title": "Народный ансамбль народного танца «Айтуган»",
+      "summary": "Народный танец и сценические выступления. Коллектив представляет республику на фестивалях и объединяет любителей хореографии.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/aitugan/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-aitugan-e7df3ccb.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/aytugan.ensemble",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/aiytugan/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Народный ансамбль народного танца «Айтуган»"
+    },
+    {
+      "id": "club-atmosfera",
+      "title": "Народный танцевальный проект «Атмосфера»",
+      "summary": "Танцевальный проект университета: сценические номера, совместные репетиции и творческая работа в команде.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/atmosfera/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-atmosfera-b63e6b73.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/atmosfera/photo_scene_1.jpg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Народный танцевальный проект «Атмосфера»"
+    },
+    {
+      "id": "club-cheerleading",
+      "title": "Первая сборная УУНиТ по черлидингу",
+      "summary": "Сборная по чир-дэнс: танцевальные постановки и выступления. Подойдёт любителям активной командной работы.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/cheerleading/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-cheerleading-0b1ae290.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Первая сборная УУНиТ по черлидингу"
+    },
+    {
+      "id": "club-dance-vibe",
+      "title": "Студия танца «Dance vibe»",
+      "summary": "Современные танцы и постановка сценических номеров. Узнайте у руководителя, как попасть на пробное занятие.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/dance-vibe/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-dance-vibe-d094f72f.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/-/photo_scene_1_TNKb14K.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Студия танца «Dance vibe»"
+    },
+    {
+      "id": "club-watermelons-crew",
+      "title": "Танцевальный коллектив «Watermelons CREW»",
+      "summary": "Современная хореография и уличные танцевальные направления. Команда выступает на университетских и городских площадках.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/watermelons-crew/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-watermelons-crew-2d09e51a.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/watermelons_crew",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/-/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Танцевальный коллектив «Watermelons CREW»"
+    },
+    {
+      "id": "club-septima",
+      "title": "Вокальная студия «Септима»",
+      "summary": "Вокальная студия: современные и классические песни. В официальном описании есть обучение с нуля и авторское исполнение.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/septima/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-septima-5aba92cf.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/septima/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Вокальная студия «Септима»"
+    },
+    {
+      "id": "club-momentov-more",
+      "title": "Кавер-группа «Моментов море»",
+      "summary": "Кавер-группа для тех, кто любит музыку и сцену. Состав, репертуар и возможные роли уточняйте у организаторов.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/momentov-more/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-momentov-more-306b9a48.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/momentov-more/photo_scene_1.jpg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Кавер-группа «Моментов море»"
+    },
+    {
+      "id": "club-aktamyr",
+      "title": "Народный ансамбль кураистов «Актамыр»",
+      "summary": "Ансамбль кураистов: народная музыка, репетиции и выступления. Возможность познакомиться с башкирскими музыкальными традициями.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/aktamyr/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-aktamyr-9e62b492.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/aktamir/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Народный ансамбль кураистов «Актамыр»"
+    },
+    {
+      "id": "club-tausen",
+      "title": "Народный русский фольклорный ансамбль «Таусень»",
+      "summary": "Русский фольклорный ансамбль. Народное творчество, музыкальная культура и выступления на фестивалях.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/tausen/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-tausen-df20103b.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/tausen/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Народный русский фольклорный ансамбль «Таусень»"
+    },
+    {
+      "id": "club-yanguzel",
+      "title": "Этно-фолк группа «Янгузель»",
+      "summary": "Этно-фолк группа соединяет башкирские народные инструменты с классическими струнными. Для любителей музыки и культурных традиций.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/yanguzel/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-yanguzel-2aa340f9.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/janguzel/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Этно-фолк группа «Янгузель»"
+    },
+    {
+      "id": "club-oskon",
+      "title": "Башкирский народный студенческий театр «Оскон» («Искра»)",
+      "summary": "Студенческий театр с постановками на башкирском языке. Репертуар включает произведения российских и зарубежных драматургов.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/oskon/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-oskon-6ebbfb86.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/oskon/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Башкирский народный студенческий театр «Оскон» («Искра»)"
+    },
+    {
+      "id": "club-grotesk",
+      "title": "Русский студенческий театр «Гротеск»",
+      "summary": "Русский студенческий театр: классика и современная драматургия. Для тех, кто хочет попробовать сцену и коллективную постановку.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/grotesk/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-grotesk-2b564c9b.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/grotesk_uunit",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/grotesk/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Русский студенческий театр «Гротеск»"
+    },
+    {
+      "id": "club-selet",
+      "title": "Татарский музыкально-поэтический театр «Сэлэт» («Талант»)",
+      "summary": "Татарский музыкально-поэтический театр. Музыка, поэзия и театральные постановки в одном творческом коллективе.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/selet/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-selet-4b73e0e8.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/selet/photo_scene_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Татарский музыкально-поэтический театр «Сэлэт» («Талант»)"
+    },
+    {
+      "id": "club-green-project",
+      "title": "Зеленый проект",
+      "summary": "Экологическое движение: сбор вторсырья и мастер-классы по переработке. Можно начать с участия в небольшой экологической акции.",
+      "group": "Экология",
+      "tags": [
+        "Экология",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/green-project/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-green-project-27e9439b.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/zeleniiy-proekt/photo_team_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Зеленый проект"
+    },
+    {
+      "id": "club-voskhozhdenie",
+      "title": "Туристический клуб \"Восхождение\"",
+      "summary": "Туристско-спортивное объединение. Походы и соревнования; подготовку, экипировку и условия участия обсуждайте с организаторами.",
+      "group": "Спорт и туризм",
+      "tags": [
+        "Спорт и туризм",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/voskhozhdenie/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-voskhozhdenie-800e1eff.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/voshozhdenie/photo_team_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Туристический клуб \"Восхождение\""
+    },
+    {
+      "id": "club-ikar",
+      "title": "Туристический клуб «Икар»",
+      "summary": "Походы по Уралу, пещерам и озёрам, путешествия и палаточные лагеря. Маршрут и необходимую подготовку уточняйте перед записью.",
+      "group": "Спорт и туризм",
+      "tags": [
+        "Спорт и туризм",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/ikar/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-ikar-963b521d.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/ikartk",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/ikar/photo_event_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Туристический клуб «Икар»"
+    },
+    {
+      "id": "club-eco-birds",
+      "title": "Экологический клуб «EcoBirds»",
+      "summary": "Экологический клуб биологического факультета. Проекты и мероприятия, которые развивают экологическую культуру студентов.",
+      "group": "Экология",
+      "tags": [
+        "Экология",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/eco-birds/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-eco-birds-00fa2e14.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/ecobirds",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/photo_team_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Экологический клуб «EcoBirds»"
+    },
+    {
+      "id": "club-amaterasu",
+      "title": "Аниме клуб «Аматэрасу»",
+      "summary": "Сообщество любителей аниме и манги. Встречи с единомышленниками и совместные тематические активности.",
+      "group": "По интересам",
+      "tags": [
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/amaterasu/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-amaterasu-c4853eb9.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/amaterasu/photo_event_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Аниме клуб «Аматэрасу»"
+    },
+    {
+      "id": "club-intellectual-club",
+      "title": "Интеллектуальный клуб УУНиТ",
+      "summary": "Интеллектуальные игры и командные обсуждения. Для тех, кому нравится искать ответы и решать необычные задачи.",
+      "group": "По интересам",
+      "tags": [
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/intellectual-club/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-intellectual-club-11790394.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/chgk_uunt",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/photo_event_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Интеллектуальный клуб УУНиТ"
+    },
+    {
+      "id": "club-debate-club",
+      "title": "Клуб дебатов «Достоевский»",
+      "summary": "Дебаты, аргументация и публичные выступления. Возможность тренировать речь и обсуждать идеи в уважительном формате.",
+      "group": "По интересам",
+      "tags": [
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/debate-club/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-debate-club-01ecbf85.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/debate_dostoevsky",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/dostoevskiiy/photo_event_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Клуб дебатов «Достоевский»"
+    },
+    {
+      "id": "club-art-club",
+      "title": "Клуб изобразительного искусства УУНиТ",
+      "summary": "Рисование, живопись, композиция и декоративно-прикладное искусство. Официальное описание приглашает и начинающих участников.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/art-club/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-art-club-1c4aea56.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/club207750350",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/photo_team_1.jpg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Клуб изобразительного искусства УУНиТ"
+    },
+    {
+      "id": "club-oska",
+      "title": "Клуб любителей быстрых игр на реакцию и ритм",
+      "summary": "Клуб ритм-игр и быстрых игр на реакцию. Общение и совместная практика для любителей музыки и игрового ритма.",
+      "group": "IT и игры",
+      "tags": [
+        "IT",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/oska/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/oska_club",
+      "imageSourceUrl": null,
+      "imageKind": "Фото коллектива"
+    },
+    {
+      "id": "club-brain-bricks",
+      "title": "Клуб разработчиков игр Brain Bricks",
+      "summary": "Клуб разработчиков игр. Знакомство с геймдевом и совместная работа над игровыми идеями.",
+      "group": "IT и игры",
+      "tags": [
+        "IT",
+        "Наука"
+      ],
+      "sourceUrl": "https://uust.ru/departments/brain-bricks/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/brainbricks",
+      "imageSourceUrl": null,
+      "imageKind": "Фото коллектива"
+    },
+    {
+      "id": "club-kis",
+      "title": "Комитет инициативных студентов",
+      "summary": "Комитет инициативных студентов: студенческие проекты, мероприятия и коммуникация. Для тех, кто хочет организовывать и предлагать новое.",
+      "group": "Инициативы",
+      "tags": [
+        "Волонтёрство",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/kis/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-kis-7fbd7f66.jpg",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://t.me/kis_ichpes",
+      "imageSourceUrl": "https://cdn4.telesco.pe/file/gbbNUQF0pAbDI4Vwr1n8OYfvLcF8rosivX5LRsG2rAs2a8b6p79d2sYCMHkK121Qqe0VsraexMDffltk8N-1P-R02Nzjv8wxb1hrFDZ7Se549qo5j3t2fnArIxFZ7Du_xe5x2T-tFKewggbeQwo3tEn3sJiraO7bCMxSAB2r1deSZhi-gDy3qWTQ_3NZ5n42Sr0IjX2m9y7MfDvhxss6G4HOpIA-XFt9bi2dY-jzkG8uK0v90CZW5WExYYCNW2D7q3CqBGhPh0PahP7JEuiD-FNBMCDUEZT4U-NNxnW25ZpxTcmKretb4U9oyYC1OYyrETd1FxyYHxhxwdzW1r3bzg.jpg",
+      "imageKind": "Аватар сообщества",
+      "imageAlt": "Аватар сообщества: Комитет инициативных студентов"
+    },
+    {
+      "id": "club-liga-kvn",
+      "title": "Лига КВН УУНиТ",
+      "summary": "Юмор, сценические номера и командная работа. Возможность попробовать написание шуток, актёрство или организацию выступлений.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/liga-kvn/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-liga-kvn-dad7a65d.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/ligayynit",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/photo_scene_1_LzKM97J.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Лига КВН УУНиТ"
+    },
+    {
+      "id": "club-math-club",
+      "title": "Математический клуб УУНиТ",
+      "summary": "Помощь в математике и программировании. В сообществе публикуются учебные материалы и информация о клубе.",
+      "group": "IT и игры",
+      "tags": [
+        "IT",
+        "Наука"
+      ],
+      "sourceUrl": "https://uust.ru/departments/math-club/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-math-club-7b87dbe6.jpg",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://t.me/math_club_uust",
+      "imageSourceUrl": "https://cdn4.telesco.pe/file/bOHLTV_da4u6OdiOd5K51pCXMWJ2lpumQttdFRFo-jZ46bK5eso9TSN9beXKoY_iVyxxlsax_9zrCh_ZidLPPp6YiM7UDf9U7CLe86KFSeXWRVEIEaSKByZ9JT301RJpuGOg0iv24OqvRk_x8FUtJOcOSAzAJ5JCWdQs9_WR_r-VgE1_sE_gisSwgl20AN9MaJP7JkETV3LEZpp5YH2NvoekX2Pq6ozp26UarYrB5UTJw_1dtlGCAlLyOzoDk_7HzDHd08TPcIW3CF-H9V8Wye3bppKa2w0fBFj8WnTDKVS3S0toqTm55-0pIkbOvf0R9ZpMNATB-GNHQ5E00zYqTA.jpg",
+      "imageKind": "Аватар сообщества",
+      "imageAlt": "Аватар сообщества: Математический клуб УУНиТ"
+    },
+    {
+      "id": "club-final-round",
+      "title": "Настольный клуб «Final Round»",
+      "summary": "Настольные и ролевые игры разной сложности. Удобный способ познакомиться с людьми через совместную игру.",
+      "group": "По интересам",
+      "tags": [
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/final-round/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-final-round-2c1f1015.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/nk.finalround",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/-/photo_event_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Настольный клуб «Final Round»"
+    },
+    {
+      "id": "club-po-vatan",
+      "title": "Поисковый отряд \"Ватан\" УУНиТ",
+      "summary": "Поисковая и историко-мемориальная работа. Участие и подготовку к мероприятиям обсуждайте с руководителями отряда.",
+      "group": "Инициативы",
+      "tags": [
+        "Волонтёрство",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/po-vatan/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-po-vatan-cd8a4b14.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/poisk_vatan",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/vatan/photo_.jpg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Поисковый отряд \"Ватан\" УУНиТ"
+    },
+    {
+      "id": "club-progo-group-live",
+      "title": "Промо-группа \"ЛАЙВ\"",
+      "summary": "Организация студенческих проектов и событий. Для креативных участников, которым интересны идеи, продвижение и работа в команде.",
+      "group": "Инициативы",
+      "tags": [
+        "Волонтёрство",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/progo-group-live/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-progo-group-live-7a4a2c52.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/uustlive",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/laiyv/photo_event_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Промо-группа \"ЛАЙВ\""
+    },
+    {
+      "id": "club-studbiss",
+      "title": "Студенческий бизнес-клуб УУНиТ «STUDBISS»",
+      "summary": "Студенческое предпринимательство и профессиональное развитие. Сообщество инициативных студентов, интересующихся бизнесом.",
+      "group": "Предпринимательство",
+      "tags": [
+        "Карьера",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/studbiss/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-studbiss-a999f713.jpg",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://t.me/STUDBISS",
+      "imageSourceUrl": "https://cdn4.telesco.pe/file/cdSBSEqc65nBkt2_pODFuHqxUSrewsC18Qjn1ssqysIDpfFOY8I6SM9ymeSHNA8yfRRkJH5OjXRlKgbNwzBarACJ74BT6owSFo3Ksd0dBiXJsMPEHw1g2BmhyzDXlG_pgozDuo5muXXO1faL4xBwfEY5Q7pKuSELegcuI8_L55N3pGh3A3D0NCb13q_eWdYNulnpmOd4RL03mYZatr_6QN8QriIxWgIk4_nh2Op3W5SHdSXn5pyJOrI7WWaqi3IEE3uURSR67nhmosDhjS95pCl2OBv3HFssEdCtNDQiRVudZOWLYdvVD4oMzN7zu1wg16iCzE-SY9Y820psCMMWnQ.jpg",
+      "imageKind": "Аватар сообщества",
+      "imageAlt": "Аватар сообщества: Студенческий бизнес-клуб УУНиТ «STUDBISS»"
+    },
+    {
+      "id": "club-spk-avangard",
+      "title": "Студенческий патриотический клуб «Авангард»",
+      "summary": "Студенческий патриотический клуб. Общественные инициативы и совместные тематические мероприятия.",
+      "group": "Инициативы",
+      "tags": [
+        "Волонтёрство",
+        "Общение"
+      ],
+      "sourceUrl": "https://uust.ru/departments/spk-avangard/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-spk-avangard-a026eaf9.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": "https://vk.com/avangard_iigu",
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/avangard/photo_.jpg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Студенческий патриотический клуб «Авангард»"
+    },
+    {
+      "id": "club-titul",
+      "title": "Школа-студия «Титул»",
+      "summary": "Школа-студия сценической уверенности, походки и осанки. Условия участия и формат занятий уточняйте у коллектива.",
+      "group": "Творчество",
+      "tags": [
+        "Творчество"
+      ],
+      "sourceUrl": "https://uust.ru/departments/titul/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": "./assets/club-titul-38b83260.webp",
+      "steps": [
+        "Откройте сообщество или контакты на официальной странице.",
+        "Спросите, когда следующий набор или пробная встреча.",
+        "Уточните условия участия и необходимую подготовку."
+      ],
+      "socialUrl": null,
+      "imageSourceUrl": "https://uust.ru/media/pages/subdivisionpage/titul/photo_team_1.jpeg",
+      "imageKind": "Фото коллектива",
+      "imageAlt": "Фото коллектива: Школа-студия «Титул»"
+    }
+  ],
+  "career": [
+    {
+      "id": "career-uust",
+      "title": "Центр карьеры УУНиТ",
+      "summary": "Начните со своего университета: HR-консультации, встречи с работодателями, практика и стажировки.",
+      "group": "Стажировки",
+      "tags": [
+        "Карьера"
+      ],
+      "sourceUrl": "https://uust.ru/employment/career-center/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте страницу центра и контакты.",
+        "Напишите направление обучения, курс и интересующие задачи.",
+        "Спросите о ближайших встречах и вариантах практики."
+      ]
+    },
+    {
+      "id": "career-codenrock",
+      "title": "Codenrock: календарь хакатонов",
+      "summary": "Хакатоны, ML-соревнования, CTF и задачи по программированию. У каждого события свои правила, формат и уровень подготовки.",
+      "group": "Хакатоны",
+      "tags": [
+        "IT",
+        "Карьера"
+      ],
+      "sourceUrl": "https://codenrock.com/calendar",
+      "sourceName": "Codenrock",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Выберите подходящие сроки и формат.",
+        "Проверьте размер команды, требования и дедлайн регистрации.",
+        "Подготовьте маленькое портфолио и распределите роли."
+      ]
+    },
+    {
+      "id": "career-nto",
+      "title": "НТО: студенческий трек",
+      "summary": "Командные инженерные соревнования для студентов вузов и старших курсов СПО. Выбирайте профиль по интересам, а не по обещанию призов.",
+      "group": "Олимпиады",
+      "tags": [
+        "IT",
+        "Наука"
+      ],
+      "sourceUrl": "https://ntcontest.ru/tracks/nto-student/",
+      "sourceName": "НТО",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте студенческий трек и список профилей.",
+        "Сверьте календарь и правила участия.",
+        "Изучите задания прошлых сезонов и найдите команду."
+      ],
+      "links": [
+        {
+          "label": "Календарь сезона",
+          "url": "https://ntcontest.ru/participants/schedule/"
+        }
+      ]
+    },
+    {
+      "id": "career-profi",
+      "title": "Олимпиада «Я — профессионал»",
+      "summary": "Направления для студентов разных специальностей. В личном кабинете и правилах сезона проверяйте требования, этапы и возможности участников.",
+      "group": "Олимпиады",
+      "tags": [
+        "Наука",
+        "Карьера"
+      ],
+      "sourceUrl": "https://yandex.ru/profi/",
+      "sourceName": "Я — профессионал",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Выберите направление и прочитайте требования.",
+        "Посмотрите демонстрационные задания.",
+        "Поставьте дедлайн регистрации в свой календарь."
+      ]
+    },
+    {
+      "id": "career-yandex",
+      "title": "Young&&Yandex: стажировки",
+      "summary": "Стажировки по разным IT-направлениям. Нужны базовые навыки и отбор; наличие удалённой позиции не гарантируется.",
+      "group": "Стажировки",
+      "tags": [
+        "IT",
+        "Карьера"
+      ],
+      "sourceUrl": "https://yandex.ru/yaintern/",
+      "sourceName": "Яндекс",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Сравните требования нескольких направлений.",
+        "Подготовьте резюме и один учебный проект.",
+        "Проверьте формат работы, график и этапы отбора."
+      ]
+    },
+    {
+      "id": "career-science",
+      "title": "BashSciEdu: научные возможности",
+      "summary": "Конкурсы, стипендии, стажировки и конференции. Канал рекомендован на странице Совета молодых учёных УУНиТ.",
+      "group": "Гранты и наука",
+      "tags": [
+        "Наука",
+        "Карьера"
+      ],
+      "sourceUrl": "https://t.me/BashSciEdu",
+      "sourceName": "BashSciEdu",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Выберите конкурс своего уровня.",
+        "Откройте первоисточник объявления.",
+        "Проверьте требования к возрасту, курсу и документам."
+      ],
+      "links": [
+        {
+          "label": "Рекомендация УУНиТ",
+          "url": "https://uust.ru/smu/health_smu/"
+        }
+      ]
+    },
+    {
+      "id": "career-profvzlet",
+      "title": "ПрофВзлёт: образовательные встречи",
+      "summary": "Следите за образовательными мероприятиями и научными сообществами университета. Ссылки на VK и Telegram опубликованы Советом молодых учёных.",
+      "group": "Гранты и наука",
+      "tags": [
+        "Наука",
+        "Карьера"
+      ],
+      "sourceUrl": "https://t.me/profvzlet",
+      "sourceName": "ПрофВзлёт",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [],
+      "links": [
+        {
+          "label": "ВКонтакте",
+          "url": "https://vk.com/profvzlet"
+        },
+        {
+          "label": "Источник УУНиТ",
+          "url": "https://uust.ru/smu/health_smu/"
+        }
+      ]
+    },
+    {
+      "id": "career-colab",
+      "title": "CoLab: научные команды и организации",
+      "summary": "Площадка для знакомства с научной средой, исследователями и организациями. Рекомендована в полезных ссылках СМУ; не обещает стажировку автоматически.",
+      "group": "Гранты и наука",
+      "tags": [
+        "Наука",
+        "Карьера"
+      ],
+      "sourceUrl": "https://colab.ws/",
+      "sourceName": "CoLab",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [],
+      "links": [
+        {
+          "label": "Источник УУНиТ",
+          "url": "https://uust.ru/smu/health_smu/"
+        }
+      ]
+    },
+    {
+      "id": "career-stepik",
+      "title": "Stepik: бесплатные курсы",
+      "summary": "Каталог с фильтром бесплатных курсов: программирование, математика и другие темы. Стоимость конкретного курса и сертификата смотрите отдельно.",
+      "group": "Курсы",
+      "tags": [
+        "IT",
+        "Наука"
+      ],
+      "sourceUrl": "https://stepik.org/catalog?free=true",
+      "sourceName": "Stepik",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Выберите один курс под конкретную цель.",
+        "Посмотрите программу, отзывы и последнее обновление.",
+        "Запланируйте 2–3 коротких учебных блока в неделю."
+      ]
+    },
+    {
+      "id": "career-openedu",
+      "title": "Открытое образование",
+      "summary": "Университетские онлайн-курсы по разным дисциплинам. Проверяйте сроки потока и оплату сертификата; зачёт курса в УУНиТ нужно согласовывать отдельно.",
+      "group": "Курсы",
+      "tags": [
+        "Наука",
+        "Карьера"
+      ],
+      "sourceUrl": "https://openedu.ru/",
+      "sourceName": "Открытое образование",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "career-lektorium",
+      "title": "Лекториум: курсы и лекции",
+      "summary": "Образовательный каталог по разным темам. Выбирайте нужный формат и проверяйте цену/условия конкретной программы перед записью.",
+      "group": "Курсы",
+      "tags": [
+        "Наука",
+        "Творчество"
+      ],
+      "sourceUrl": "https://www.lektorium.tv/mooc",
+      "sourceName": "Лекториум",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "career-studbiss",
+      "title": "STUDBISS: от идеи к проекту",
+      "summary": "Студенческий бизнес-клуб УУНиТ. Возможность найти единомышленников для предпринимательского проекта и обсудить первые шаги.",
+      "group": "Команда и проекты",
+      "tags": [
+        "Карьера",
+        "Общение"
+      ],
+      "sourceUrl": "https://t.me/STUDBISS",
+      "sourceName": "STUDBISS",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [],
+      "links": [
+        {
+          "label": "Официальная страница",
+          "url": "https://uust.ru/departments/studbiss/"
+        }
+      ]
+    },
+    {
+      "id": "career-team",
+      "title": "Как найти команду на первый хакатон",
+      "summary": "Не пишите только «ищу команду». Покажите, чем готовы помочь, сколько времени есть и какую задачу хотите решить.",
+      "group": "Команда и проекты",
+      "tags": [
+        "IT",
+        "Общение"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Выберите конкретное мероприятие и прочитайте правила.",
+        "Напишите 3 строки: роль, опыт/пример работы, время и контакт.",
+        "Начните с одного общего созвона и маленькой задачи.",
+        "Договоритесь о владельцах файлов, общей версии и сроке первой сборки."
+      ],
+      "editorial": true
+    },
+    {
+      "id": "career-cv",
+      "title": "Резюме без опыта: что показать",
+      "summary": "Учебный проект, вклад в команду и готовность учиться полезнее пустого списка «ответственный, коммуникабельный».",
+      "group": "Стажировки",
+      "tags": [
+        "Карьера"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Одна страница: контакты, обучение, навыки, 1–3 проекта.",
+        "Для проекта укажите задачу, свой вклад и работающую ссылку.",
+        "Не приписывайте опыт, которого не было.",
+        "Перед откликом подстройте первые строки под вакансию."
+      ],
+      "editorial": true
+    }
+  ],
+  "resources": [
+    {
+      "id": "guide-first-week",
+      "title": "Первая неделя: не пытаться узнать всё сразу",
+      "summary": "Начните с людей и каналов, которые помогут решить первые вопросы.",
+      "group": "Первый курс",
+      "tags": [
+        "Кампус"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Найдите старосту и сохраните официальный канал группы.",
+        "Уточните контакты куратора/деканата и способ связи с преподавателями.",
+        "Проверьте доступ к учебным сервисам.",
+        "Выберите одно внеучебное знакомство: клуб или открытая встреча."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-teacher-message",
+      "title": "Как написать преподавателю",
+      "summary": "Короткое уважительное сообщение помогает получить ответ быстрее.",
+      "group": "Общение",
+      "tags": [
+        "Общение"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Начните: «Здравствуйте, Имя Отчество».",
+        "Представьтесь: имя, группа, дисциплина.",
+        "Одним абзацем опишите вопрос и что уже попробовали.",
+        "Завершите конкретной просьбой и благодарностью.",
+        "Не дублируйте сообщение во все каналы и уточните рабочее время общения."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-group-chat",
+      "title": "Как не потерять важное в чате группы",
+      "summary": "Отделите информацию о делах от общего потока сообщений.",
+      "group": "Общение",
+      "tags": [
+        "Общение"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Закрепите контакты, важные ссылки и текущие дедлайны.",
+        "Договоритесь об одном формате: предмет → задача → срок → источник.",
+        "Сохраняйте файлы в общей папке с понятными названиями.",
+        "Не публикуйте чужие документы и личные данные без согласия."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-weekly-plan",
+      "title": "Неделя без аврала: план на 15 минут",
+      "summary": "Не забивайте календарь полностью: оставьте время на дорогу, еду и неожиданности.",
+      "group": "Учёба",
+      "tags": [
+        "Кампус"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Выпишите обязательные дедлайны недели.",
+        "Разбейте большую работу на маленькие результаты.",
+        "Каждый день выберите одну главную задачу и 1–2 короткие.",
+        "Оставьте свободные блоки для переноса.",
+        "В конце недели проверьте, что сработало, и упростите план."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-deadline",
+      "title": "Что делать, если не успеваете к дедлайну",
+      "summary": "Предупреждать заранее лучше, чем исчезать до последнего дня.",
+      "group": "Учёба",
+      "tags": [
+        "Кампус",
+        "Общение"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Уточните точный срок и требования к сдаче.",
+        "Оцените, что можете закончить сегодня.",
+        "Напишите преподавателю конкретно: что готово, что мешает и когда завершите.",
+        "Предложите реалистичный срок, не обещайте невозможное."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-notes",
+      "title": "Конспект, который пригодится перед экзаменом",
+      "summary": "Сохраняйте связи и вопросы, а не только текст со слайда.",
+      "group": "Учёба",
+      "tags": [
+        "Наука"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Запишите тему и 3–5 ключевых идей.",
+        "Рядом с правилом добавьте свой пример.",
+        "Отмечайте непонятные места вопросительным знаком.",
+        "После занятия попробуйте объяснить тему без просмотра записи."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-exam",
+      "title": "Подготовка к экзамену маленькими шагами",
+      "summary": "Планируйте тренировку ответов, а не только чтение.",
+      "group": "Учёба",
+      "tags": [
+        "Наука"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Получите официальный список тем и формат экзамена.",
+        "Разделите темы на «знаю», «частично», «не знаю».",
+        "Каждый учебный блок завершайте ответом на 1–2 вопроса без конспекта.",
+        "Повторяйте сложное с интервалами и оставьте время на сон."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-group-project",
+      "title": "Групповой проект без «всё сделал один»",
+      "summary": "Договоритесь о результатах и сроках до начала работы.",
+      "group": "Команда",
+      "tags": [
+        "Общение",
+        "Карьера"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Разделите проект на маленькие независимые задачи.",
+        "У каждой задачи должен быть один ответственный и срок.",
+        "Делайте первую общую версию раньше финального дня.",
+        "На коротком созвоне обсуждайте блокировки, а не обещания."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-presentation",
+      "title": "Презентация за 5 минут",
+      "summary": "Покажите проблему, решение и один работающий сценарий.",
+      "group": "Команда",
+      "tags": [
+        "Карьера",
+        "Творчество"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Один слайд — одна мысль.",
+        "Начните с ситуации реального пользователя.",
+        "Покажите продукт и честно назовите ограничения.",
+        "Проговорите выступление с таймером и подготовьте запасной показ."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-ai-study",
+      "title": "ИИ для учёбы: помощник, которого нужно проверять",
+      "summary": "Попросите объяснение, пример и проверку своего решения. Ответ ИИ не является источником сам по себе.",
+      "group": "Учёба",
+      "tags": [
+        "IT",
+        "Наука"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Не отправляйте пароли, закрытые документы и чужие персональные данные.",
+        "Сверяйте факты и ссылки с первоисточником.",
+        "Попросите объяснить ход решения, а затем повторите самостоятельно.",
+        "Учитывайте правила преподавателя по использованию ИИ."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-sources",
+      "title": "Как проверить статью или объявление",
+      "summary": "Заголовок и репост не заменяют исходную публикацию.",
+      "group": "Учёба",
+      "tags": [
+        "Наука"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Найдите первоисточник и автора.",
+        "Проверьте дату публикации и дату события отдельно.",
+        "Сверьте условия с официальным организатором.",
+        "Если информации нет, запишите вопрос вместо догадки."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-files",
+      "title": "Файлы, которые не потеряются перед сдачей",
+      "summary": "Понятные имена и запасная копия экономят часы.",
+      "group": "Учёба",
+      "tags": [
+        "IT"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Создайте отдельную папку для каждого предмета.",
+        "Назовите работу: предмет_тема_версия_дата.",
+        "Храните исходник и экспорт в PDF отдельно.",
+        "Сделайте копию на другом устройстве или своём облаке."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-budget",
+      "title": "Студенческий бюджет без сложных таблиц",
+      "summary": "Сначала обязательные расходы, затем желания.",
+      "group": "Быт",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Запишите деньги, которыми реально располагаете на месяц.",
+        "Отделите жильё, еду, проезд и связь.",
+        "Сравнивайте конечную цену: скидка не всегда делает покупку выгодной.",
+        "Записывайте мелкие траты одну неделю, затем решите, что сократить."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-discount-check",
+      "title": "Как пользоваться льготой и не спорить на кассе",
+      "summary": "У скидки есть основание, срок и исключения.",
+      "group": "Быт",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Проверьте правила на сайте учреждения в день визита.",
+        "Уточните, нужен ли оригинал студбилета и очная форма.",
+        "Спросите об исключениях: праздники, специальные сеансы, выставки.",
+        "Выберите нужную категорию билета в кассе или приложении."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-club-first",
+      "title": "Первая встреча в клубе: что спросить",
+      "summary": "Не нужно сразу обещать участвовать во всём.",
+      "group": "Общение",
+      "tags": [
+        "Общение"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Уточните время и место пробной встречи.",
+        "Спросите о нагрузке, подготовке, взносах и оборудовании.",
+        "Представьтесь и назовите свой интерес.",
+        "После встречи решите, подходит ли формат и расписание участия."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-internship-safe",
+      "title": "Как проверить предложение стажировки",
+      "summary": "Стажировка должна давать понятные задачи и условия.",
+      "group": "Карьера",
+      "tags": [
+        "Карьера"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Проверьте компанию и официальный контакт.",
+        "Уточните график, формат, наставника и оформление.",
+        "Спросите об оплате и примерах задач.",
+        "Не платите за «гарантированное трудоустройство» и не передавайте коды доступа."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-portfolio",
+      "title": "Первое портфолио из учебного проекта",
+      "summary": "Даже маленький завершённый проект может показать ваш подход.",
+      "group": "Карьера",
+      "tags": [
+        "Карьера",
+        "IT"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Опишите проблему и для кого делали решение.",
+        "Покажите результат: скриншоты, файл или работающую демонстрацию.",
+        "Отдельно укажите свой вклад в команде.",
+        "Добавьте ограничения и то, чему научились."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-networking",
+      "title": "Знакомства на мероприятии без неловкого питча",
+      "summary": "Начните с нормального вопроса, а не продажи себя.",
+      "group": "Общение",
+      "tags": [
+        "Общение",
+        "Карьера"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Спросите, что собеседнику было интересно в программе.",
+        "Коротко представьтесь и расскажите, чем занимаетесь.",
+        "Обменивайтесь контактами по взаимному желанию.",
+        "После встречи напишите одно конкретное продолжение разговора."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-library",
+      "title": "Как начать поиск литературы",
+      "summary": "Определите ключевые слова и разделяйте учебники, статьи и случайные заметки.",
+      "group": "Учёба",
+      "tags": [
+        "Наука"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Начните со списка литературы преподавателя.",
+        "Откройте каталог университетской библиотеки.",
+        "Записывайте автора, год и страницы сразу.",
+        "Для статьи сохраните ссылку и проверьте, доступен ли полный текст."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "guide-ask-help",
+      "title": "Если трудно адаптироваться: к кому обратиться",
+      "summary": "Необязательно разбираться со всем в одиночку. Это памятка о поиске поддержки, а не медицинская рекомендация.",
+      "group": "Первый курс",
+      "tags": [
+        "Кампус",
+        "Общение"
+      ],
+      "sourceUrl": null,
+      "sourceName": "PocketUUST",
+      "checkedAt": null,
+      "image": null,
+      "steps": [
+        "Обсудите учебный вопрос с куратором или старостой.",
+        "Бытовые и документальные вопросы уточняйте в МФСО/профкоме.",
+        "Контакты психологической поддержки ищите на официальном сайте вуза.",
+        "Если ситуация срочная и опасная, обращайтесь в экстренные службы."
+      ],
+      "editorial": true,
+      "readMinutes": 3
+    },
+    {
+      "id": "benefit-rusdram",
+      "title": "Русдрам: скидка 50% очникам",
+      "summary": "Льготные билеты не ранее чем за 10 дней до спектакля. Наличие мест и условия конкретной постановки уточняйте в кассе.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://rusdram.ru/vizit-v-teatr/lgotyi-i-skidki.html",
+      "sourceName": "Русдрам",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Студбилет / подтверждение очной формы.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Репертуарные спектакли большой сцены, свободные места; бронирование льготных билетов не предусмотрено.",
+      "document": "Студбилет / подтверждение очной формы"
+    },
+    {
+      "id": "benefit-national-museum",
+      "title": "Национальный музей РБ: бесплатный вторник",
+      "summary": "Бесплатное посещение постоянной экспозиции и некоммерческих выставок для обучающихся по основным профессиональным программам.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://museumrb.ru/posetiteljam/https-museumrb-ru-wp-content-uploads-2026-04-112-p-ot-27-03-2026-pdf/",
+      "sourceName": "Национальный музей РБ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Подтверждающий документ об обучении.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Экскурсии, мастер-классы и отдельные мероприятия уточняйте отдельно.",
+      "document": "Подтверждающий документ об обучении"
+    },
+    {
+      "id": "benefit-nesterov",
+      "title": "Музей Нестерова: 300 ₽ и бесплатная суббота",
+      "summary": "Студенческий вход — 300 ₽. В последнюю субботу месяца предусмотрен бесплатный вход обучающимся по основным профессиональным программам.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://museum-nesterov.ru/visitors/",
+      "sourceName": "Музей Нестерова",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Подтверждающий документ об обучении.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Экспозиции и некоммерческие выставки; экскурсии и мероприятия не включены.",
+      "document": "Подтверждающий документ об обучении"
+    },
+    {
+      "id": "benefit-history-museum",
+      "title": "Музей истории Уфы: вход 200 ₽",
+      "summary": "Официальный студенческий входной билет — 200 ₽. Музей расположен на улице Ленина, 72.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://museum-ufa.ru/prejskurant/",
+      "sourceName": "Музей истории Уфы",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Студенческий билет.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Экскурсионное обслуживание оплачивается отдельно.",
+      "document": "Студенческий билет"
+    },
+    {
+      "id": "benefit-rodina",
+      "title": "Кинотеатр «Родина»: 200 ₽ по Пн–Ср",
+      "summary": "Студентам — билет за 200 ₽ в понедельник, вторник и среду по действующим условиям кинотеатра.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://rodina-ufa.ru/discounts/",
+      "sourceName": "Кинотеатр Родина",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Студбилет или зачётная книжка.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Не действует в праздники, выходные и на фильмы с ограничениями прокатчика; проверяйте список исключений.",
+      "document": "Студбилет или зачётная книжка"
+    },
+    {
+      "id": "benefit-ultra",
+      "title": "ULTRA CINEMA: 50% по Чт–Пт",
+      "summary": "Студенческая скидка в филиале на Бакалинской. Льготный билет покупают в кассе по подтверждающему документу.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://ufa.ultra-cinema.ru/aktsii/",
+      "sourceName": "ULTRA CINEMA Уфа",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Подтверждающий студенческий документ.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Не действует в праздники, на фильмы с ограничениями прокатчика и VIP-залы 8–11.",
+      "document": "Подтверждающий студенческий документ"
+    },
+    {
+      "id": "benefit-electric-train",
+      "title": "Электрички БашППК: 50% очникам",
+      "summary": "Льгота на территории РБ действует в учебный период с 1 сентября по 15 июня. Для текущего сезона: 01.09.2026–15.06.2027.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://bppc.ru/passazhiram/tarify/",
+      "sourceName": "Башкортостанская ППК",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Оригинал действующего студбилета.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Для покупки в приложении льготный профиль оформляется в кассе; уточните документы и маршрут.",
+      "document": "Оригинал действующего студбилета"
+    },
+    {
+      "id": "benefit-sks",
+      "title": "СКС РФ: карта партнёрских предложений",
+      "summary": "Профком УУНиТ рекомендует приложение с виртуальной студенческой картой, картой партнёров и условиями отдельных скидок.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://uust.ru/profcom-studentov/",
+      "sourceName": "Профком студентов УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Виртуальная карта СКС РФ.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Проценты и участие партнёров меняются. Это отдельная карта: уточните оформление и доступность предложения.",
+      "document": "Виртуальная карта СКС РФ"
+    },
+    {
+      "id": "benefit-pushkin",
+      "title": "Пушкинская карта: культурные события",
+      "summary": "Возрастная программа для граждан РФ 14–22 лет. Лимит 5 000 ₽ в год, из них до 2 000 ₽ на кино по правилам программы.",
+      "group": "Скидки и льготы",
+      "tags": [
+        "Бюджет"
+      ],
+      "sourceUrl": "https://www.vtb.ru/personal/karty/debetovye/pushkinskaya_karta/",
+      "sourceName": "ВТБ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": [
+        "Откройте действующие условия в источнике перед визитом.",
+        "Подготовьте: Возраст и условия программы, не просто студбилет.",
+        "Уточните исключения и способ покупки льготного билета."
+      ],
+      "conditions": "Оформление и покупка — по правилам программы; оплачиваются только участвующие события.",
+      "document": "Возраст и условия программы, не просто студбилет"
+    },
+    {
+      "id": "tool-libreoffice",
+      "title": "LibreOffice: документы и презентации",
+      "summary": "Бесплатный офисный пакет: тексты, таблицы и презентации. Перед сдачей проверяйте экспорт и открытие файла у преподавателя.",
+      "group": "Программы и сервисы",
+      "tags": [
+        "IT",
+        "Кампус"
+      ],
+      "sourceUrl": "https://www.libreoffice.org/",
+      "sourceName": "LibreOffice",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "tool-zotero",
+      "title": "Zotero: источники и библиография",
+      "summary": "Бесплатный менеджер литературы. Помогает хранить статьи и оформлять ссылки; библиографию всё равно нужно проверить по требованиям кафедры.",
+      "group": "Программы и сервисы",
+      "tags": [
+        "IT",
+        "Кампус"
+      ],
+      "sourceUrl": "https://www.zotero.org/",
+      "sourceName": "Zotero",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "tool-anki",
+      "title": "Anki: карточки для повторения",
+      "summary": "Карточки с интервальным повторением. Начните с небольшой колоды по одному предмету; условия мобильных приложений отличаются.",
+      "group": "Программы и сервисы",
+      "tags": [
+        "IT",
+        "Кампус"
+      ],
+      "sourceUrl": "https://apps.ankiweb.net/",
+      "sourceName": "Anki",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "tool-obsidian",
+      "title": "Obsidian: связанные конспекты",
+      "summary": "Заметки и связи между темами. Храните исходные файлы и резервную копию; дополнительные услуги синхронизации оплачиваются отдельно.",
+      "group": "Программы и сервисы",
+      "tags": [
+        "IT",
+        "Кампус"
+      ],
+      "sourceUrl": "https://obsidian.md/",
+      "sourceName": "Obsidian",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "tool-kompas",
+      "title": "КОМПАС-3D: учебная версия",
+      "summary": "Бесплатная учебная версия для некоммерческих учебных задач. Статус учащегося, ОС и правила использования проверьте перед установкой.",
+      "group": "Программы и сервисы",
+      "tags": [
+        "IT",
+        "Кампус"
+      ],
+      "sourceUrl": "https://kompas.ru/kompas-educational/about/",
+      "sourceName": "АСКОН",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "tool-mfso",
+      "title": "МФСО УУНиТ: студенческие вопросы",
+      "summary": "Официальный многофункциональный студенческий офис. Узнайте, куда обратиться по своему документальному или организационному вопросу.",
+      "group": "Программы и сервисы",
+      "tags": [
+        "IT",
+        "Кампус"
+      ],
+      "sourceUrl": "https://uust.ru/mfso/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "tool-digital",
+      "title": "Учебные сервисы УУНиТ",
+      "summary": "Официальный каталог цифровых сервисов. Начните здесь, если потеряли нужную ссылку, и не передавайте пароль сторонним сайтам.",
+      "group": "Программы и сервисы",
+      "tags": [
+        "IT",
+        "Кампус"
+      ],
+      "sourceUrl": "https://uust.ru/digital-services/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    },
+    {
+      "id": "tool-faq",
+      "title": "Официальные ответы УУНиТ",
+      "summary": "Проверяйте университетские правила и контакты в официальном FAQ. При неоднозначном ответе уточняйте свой случай у ответственного подразделения.",
+      "group": "Программы и сервисы",
+      "tags": [
+        "IT",
+        "Кампус"
+      ],
+      "sourceUrl": "https://uust.ru/faq/",
+      "sourceName": "УУНиТ",
+      "checkedAt": "2026-09-26",
+      "image": null,
+      "steps": []
+    }
+  ],
+  "contentCheckedAt": "2026-09-26",
+  "sourcePages": [
+    "https://uust.ru/stud-life/",
+    "https://uust.ru/smu/health_smu/",
+    "https://uust.ru/student-unions/"
+  ],
+  "news": [
+    {
+      "id": "news-eef8691ea298655d",
+      "title": "От теории к практике: экскурсии УУНиТ ко Всемирному дню туризма",
+      "summary": "Официальная публикация УУНиТ. Подробности — на сайте университета.",
+      "sourceName": "УУНиТ",
+      "sourceUrl": "https://uust.ru/news/get/ot-teorii-k-praktike-ekskursii-uunit-ko-vsemirnomu-dnyu-turizma",
+      "publishedAt": "2026-09-25T10:16:45.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": "https://uust.ru/media/uploads/ckeditor/2026/09/25/29963790-0192-4273-9413-3faf2ba5f1f4.jpg",
+      "image": "./assets/news-cc63348c481dfdac.jpg",
+      "tags": [
+        "Кампус"
+      ],
+      "group": "Официальные",
+      "isDemo": false,
+      "imageAlt": "Изображение публикации: От теории к практике: экскурсии УУНиТ ко Всемирному дню туризма",
+      "imageKind": "Фото из источника"
+    },
+    {
+      "id": "news-70afa090c78395ea",
+      "title": "В Уфимском университете состоялось открытие ИТ-фестиваля «ТОП-ИТ. Программируем будущее»",
+      "summary": "Официальная публикация УУНиТ. Подробности — на сайте университета.",
+      "sourceName": "УУНиТ",
+      "sourceUrl": "https://uust.ru/news/get/v-ufimskom-universitete-sostoyalos-otkrytie-it-festivalya-top-it-programmiruem-budushee",
+      "publishedAt": "2026-09-25T04:45:00.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": "https://uust.ru/media/press-center/news/covers/2026/09/2026-09-25_10-45-00.webp",
+      "image": "./assets/news-8b453382dedda965.webp",
+      "tags": [
+        "Кампус"
+      ],
+      "group": "Официальные",
+      "isDemo": false,
+      "imageAlt": "Изображение публикации: В Уфимском университете состоялось открытие ИТ-фестиваля «ТОП-ИТ. Программируем будущее»",
+      "imageKind": "Фото из источника"
+    },
+    {
+      "id": "news-9f6ead24f0fddcf3",
+      "title": "Сентябрьское заседание Ученого совета УУНиТ: именные стипендиаты Альфа-Банка, итоги приёма и новации ВКР",
+      "summary": "Официальная публикация УУНиТ. Подробности — на сайте университета.",
+      "sourceName": "УУНиТ",
+      "sourceUrl": "https://uust.ru/news/get/sentyabrskoe-zasedanie-uchenogo-soveta-uunit-imennye-stipendiaty-alfa-banka-itogi-priyoma-i-novacii-vkr",
+      "publishedAt": "2026-09-24T13:19:25.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": "https://uust.ru/media/press-center/news/covers/2026/09/2026-09-24_18-19-25.webp",
+      "image": "./assets/news-e7e068b7ec4019a4.webp",
+      "tags": [
+        "Кампус"
+      ],
+      "group": "Официальные",
+      "isDemo": false,
+      "imageAlt": "Изображение публикации: Сентябрьское заседание Ученого совета УУНиТ: именные стипендиаты Альфа-Банка, итоги приёма и новации ВКР",
+      "imageKind": "Фото из источника"
+    },
+    {
+      "id": "news-a11e7dc3a6861e56",
+      "title": "В Межвузовском кампусе прошел Круглый стол «„Цифровая“ юриспруденция и искусственный интеллект»",
+      "summary": "Официальная публикация УУНиТ. Подробности — на сайте университета.",
+      "sourceName": "УУНиТ",
+      "sourceUrl": "https://uust.ru/news/get/v-mezhvuzovskom-kampuse-proshel-kruglyj-stol-cifrovaya-yurisprudenciya-i-iskusstvennyj-intellekt",
+      "publishedAt": "2026-09-24T10:00:18.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": "https://uust.ru/media/uploads/ckeditor/2026/09/24/image-20260924122725-4.jpeg",
+      "image": "./assets/news-df69afd2e46c987a.jpg",
+      "tags": [
+        "Кампус"
+      ],
+      "group": "Официальные",
+      "isDemo": false,
+      "imageAlt": "Изображение публикации: В Межвузовском кампусе прошел Круглый стол «„Цифровая“ юриспруденция и искусственный интеллект»",
+      "imageKind": "Фото из источника"
+    },
+    {
+      "id": "news-1f95b13d6b58339e",
+      "title": "Грибной сезон в Башкирии: что собирать в сентябре и как не отравиться – об этом разговор с экспертом УУНиТ",
+      "summary": "Официальная публикация УУНиТ. Подробности — на сайте университета.",
+      "sourceName": "УУНиТ",
+      "sourceUrl": "https://uust.ru/news/get/gribnoj-sezon-v-bashkirii-chto-sobirat-v-sentyabre-i-kak-ne-otravitsya-ob-etom-razgovor-s-ekspertom-uunit",
+      "publishedAt": "2026-09-24T09:00:26.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": "https://uust.ru/media/press-center/news/covers/2026/09/2026-09-24_14-00-26.webp",
+      "image": "./assets/news-9698ab7da6b84cce.webp",
+      "tags": [
+        "Кампус"
+      ],
+      "group": "Официальные",
+      "isDemo": false,
+      "imageAlt": "Изображение публикации: Грибной сезон в Башкирии: что собирать в сентябре и как не отравиться – об этом разговор с экспертом УУНиТ",
+      "imageKind": "Фото из источника"
+    },
+    {
+      "id": "news-fb2c463167a65108",
+      "title": "В Уфе проходит Кубок Республики Башкортостан по спортивному программированию",
+      "summary": "Официальная публикация УУНиТ. Подробности — на сайте университета.",
+      "sourceName": "УУНиТ",
+      "sourceUrl": "https://uust.ru/news/get/v-ufe-prohodit-kubok-respubliki-bashkortostan-po-sportivnomu-programmirovaniyu",
+      "publishedAt": "2026-09-24T08:52:20.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": "https://uust.ru/media/uploads/ckeditor/2026/09/24/image-20260924141352-2_resized.jpeg",
+      "image": "./assets/news-e96be1effdf57af0.jpg",
+      "tags": [
+        "Кампус"
+      ],
+      "group": "Официальные",
+      "isDemo": false,
+      "imageAlt": "Изображение публикации: В Уфе проходит Кубок Республики Башкортостан по спортивному программированию",
+      "imageKind": "Фото из источника"
+    },
+    {
+      "id": "news-834392ef02707735",
+      "title": "«Обучение служением»: старт четвертого сезона",
+      "summary": "Официальная публикация УУНиТ. Подробности — на сайте университета.",
+      "sourceName": "УУНиТ",
+      "sourceUrl": "https://uust.ru/news/get/obuchenie-sluzheniem-start-chetvertogo-sezona",
+      "publishedAt": "2026-09-24T05:43:48.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": "https://uust.ru/media/press-center/news/covers/2026/09/2026-09-24_10-43-48.webp",
+      "image": "./assets/news-d3b9e587b6d0fca9.webp",
+      "tags": [
+        "Кампус"
+      ],
+      "group": "Официальные",
+      "isDemo": false,
+      "imageAlt": "Изображение публикации: «Обучение служением»: старт четвертого сезона",
+      "imageKind": "Фото из источника"
+    },
+    {
+      "id": "news-b7cddae60df6b13f",
+      "title": "Студенты Уфимского университета присоединились к всероссийскому проекту «Лектор ОРМ»",
+      "summary": "Официальная публикация УУНиТ. Подробности — на сайте университета.",
+      "sourceName": "УУНиТ",
+      "sourceUrl": "https://uust.ru/news/get/studenty-ufimskogo-universiteta-prisoedinilis-k-vserossijskomu-proektu-lektor-orm",
+      "publishedAt": "2026-09-23T12:20:33.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": "https://uust.ru/media/uploads/ckeditor/2026/09/23/img_7983_resized.jpeg",
+      "image": "./assets/news-9883fb7dbff01663.jpg",
+      "tags": [
+        "Кампус"
+      ],
+      "group": "Официальные",
+      "isDemo": false,
+      "imageAlt": "Изображение публикации: Студенты Уфимского университета присоединились к всероссийскому проекту «Лектор ОРМ»",
+      "imageKind": "Фото из источника"
+    },
+    {
+      "id": "news-b7a34d5a31994469",
+      "title": "VI Международная научно-практическая конференция «Физика конденсированного состояния и ее приложения» в СФ УУНиТ С 24 по 26 сентября 2024 года... 2026 - ВКонтакте",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "ВКонтакте",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50LWpfUlZZdXdKM2hoUE5XckNDc2t2SWxHR0trODVGVjRscFZfNU9kd01uMDE5dGdBcVRFOUNYS3dtVDlnbjk0?oc=5",
+      "publishedAt": "2026-09-26T07:00:02.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-72425bc3fed94cee",
+      "title": "Урок мужества в СФ УУНиТ - Стерлитамакский рабочий",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "Стерлитамакский рабочий",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTA1aGhtcTdxU2w1NklBMDFnanNpZ29ZS0pMSkloRnl6NmgwSFYzVFh4VXk2YWdLcVJJSFFFYnJZbDdfS1NFejB0R0RDT2t5OTdKR0RJc1B1bzF5Nl8zYWJhTnVxQmJuaEc3N19rNm83NjNFdXEtV2tpZHhoRXJWR1hPbDJCalhYbFpn?oc=5",
+      "publishedAt": "2026-09-25T14:40:55.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-b5ebbd940cbfc023",
+      "title": "В Стерлитамакском филиале УУНиТ прошёл «Урок мужества»: диалог о важном с героям - Стерлитамакский рабочий",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "Стерлитамакский рабочий",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnAwdldhdjR0a21tTkNJNV94R2VuQW00S0tFTlNZclhoSFE1YTJ2ZjJWMkxHc3lkZUlYLWFkejNIR1d6Mm5EY0ZmYlAyb1NLMVFpUzdkbXNKc1NFS1pMRWNuYmFvdTdGc1lSTFItSDlweVZHV2xISElvREVDQzNudzdDbjRHZjlsSVNXLXVuV1E3b3d3c3pYX1VOUGxQeTdDLVU0ejRBTlNrUkE5RWx6NDNCbHJLWVdOdlhtcWNEWHMyOHo0RzB2ODMwWmV4UTM3RUxhMUVFbw?oc=5",
+      "publishedAt": "2026-09-25T11:11:35.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-fe60bd4d9962ee3c",
+      "title": "В Стерлитамаке закрылась «Университетская смена» для школьников из Луганска - Стерлитамакский рабочий",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "Стерлитамакский рабочий",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGVCYUxOWmo5Y3A0QU1ELXlZT29KeXFmSEFMdUFWVXRjT0RXNWNrS3ZTSC1OSktxak5hVEFGTVAtT0lETWdHSkRmMGQyMllxMjU2MUY3ZVZNbENYQml2VG5JOU42dVd6Y2VuTlBKbXlWOWtwU2d5cDZyb05jM2t2SXcxYXpnVF9qdmFacE5kc0dBRlg2U1JUVTltdlRmMEp0WVhnQmZOeW16YUFQSXJmSmRPSzFCWTU4ZUpHME5BVlNjZF9rTms0?oc=5",
+      "publishedAt": "2026-09-25T09:08:00.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-67960c0e1a4ceaab",
+      "title": "В СФ УУНиТ завершилась «Университетская смена» для школьников из Луганска - Cityopen.ru",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "Cityopen.ru",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVU2LWZwaTNCU2dhd3AyY3JvN2hVWDBRZWR1U2REREh3YmlSRlpqVmhwTFR0bzY0aEF4dmlvS3B5NElZRmdQWFdITFkzMGE0SjhVNkcybDY0SS1lWlp0VDNvZmFnYllBYm16b2dJV25Bc19tb0hXcDVVcXV5dC14bzdydVJMMFh1VVhkeGFLTDRLZ0F6ZmJPWC1B?oc=5",
+      "publishedAt": "2026-09-25T08:33:44.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-c92010383e3447de",
+      "title": "Студент из Стерлитамака стал одним из победителей всероссийского конкурса - Стерлитамакский рабочий",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "Стерлитамакский рабочий",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHZEeGhqQ2tIY3JuYm5IbG5EenV5OXdFTUVoRzB2VUE2SEdkTFF3UXpaUDBpWTdmRThNSFR1RWVmMkFRanRrTVZjUG5pbUVBNGdZcjhhNGJQemQtSzNTUzJzdkh6SGl6UUtRa0xkWnBGMDA0SEd3Q2V4VUEtZVc0aXNKR2xpcWhiTklIMzZwMkEzRXJtYTVuTHRXc3BHZVVWaVhVMklJckNzSmtLX3V6QlVpVEpwSm1WWlNJNlJnNWtpZTIwWUdLS2tGQQ?oc=5",
+      "publishedAt": "2026-09-24T07:18:28.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-6c7d27544203ad0a",
+      "title": "В УУНиТ проходит испытания агент искусственного интеллекта - ВКонтакте",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "ВКонтакте",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84bF85ZDZVUEIwNlZHV2hNRTE5X1JoWDZfSUJfemRwNlpvSWNGRDNmbU9vd2VjN0xEV0NpNWR4NVFqRkZ2eUJWSFFvcnVYWERGeWc?oc=5",
+      "publishedAt": "2026-09-22T12:36:48.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-0dc9f26508baee49",
+      "title": "Дом как стартовая площадка: первокурсница из Краснокамского района выбрала УУНиТ - Resbash.ru",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "Resbash.ru",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM0xnNkNaZ3hod1V6LXo5TTVkYU12MDBsMllwSWRRRC1MMjd6N1JFdEh2QjB4TUFoay1lNUpEX2R2bjU3T0tweEpZUVdyZHRjZlFVY01KbVhvUUV5R3hGVUx6UVpZOUdtZERKTlZzbmdpSzEzS0NydmczUUJVTW41UWF2bnhabHp3NHAzY3htdFRsMVdJMlJST3dOOXpOeU8tZl9wS2hFNHBJald6R2ZFTW9UVmJ1UkFpRkN3Yl93QXExSmlvdTY5b1cwMVBwdGVkdHlnag?oc=5",
+      "publishedAt": "2026-09-22T10:12:20.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-8dda91c676300c5e",
+      "title": "В УУНиТ стартовал форум по цифровым технологиям и ИИ [ВИДЕО] - Bash.News",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "Bash.News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWFSY2E4ZFRKSHYxR21HVVRScEM0ck9ScFRwTTNBTTdsRF9WOGpEV3dJUnRkbUIyZUgzd2JHdlJnSnV3UGlUcHBnbzhNdFVjbF9TaUJNbXI4eVluUHRqc0Z4Zm1FQXpjSkRDZlZ5NWhPMnVmM3N4S1pnbG5rZzF0XzdNRkNNQ2ZhQ0Jv?oc=5",
+      "publishedAt": "2026-09-22T04:56:00.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    },
+    {
+      "id": "news-b61625a68e459e33",
+      "title": "Целевое обучение в УУНиТ: первокурсница уже знает, где будет работать - Resbash.ru",
+      "summary": "Откройте публикацию, чтобы прочитать подробности.",
+      "sourceName": "Resbash.ru",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmZtNFFTOW9Xejg4WW1EOG9VeWpldV9EdDZhSzRxeHBmNVVxcUdrNy14SjFiNWVqUzc0NWxaa2NQYVpxTV9xWF9RSEx5NG0zaXA0UDgwSWxRZ0NkUF8tNmFtOGlqTFBYMjM2cE1TbmtkVDFwZVZ1R3E5aG4yVUVibjdpNWIzMnN2MzYyNTVMaFo1a3dieFhZWGxyTERud2FCOGRwcmlXSFhMOGUzQ09DWGdIekxBNDFMajh4UXYyTy1RbEE?oc=5",
+      "publishedAt": "2026-09-21T10:46:43.000Z",
+      "checkedAt": null,
+      "imageSourceUrl": null,
+      "image": null,
+      "tags": [
+        "Кампус"
+      ],
+      "group": "СМИ",
+      "isDemo": false
+    }
+  ],
+  "newsFetchedAt": "2026-09-26T16:46:52.431Z",
+  "newsImportMode": "google-and-official"
+}

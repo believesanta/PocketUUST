@@ -1,0 +1,572 @@
+.services {
+  color: var(--text);
+  min-width: 0;
+}
+.hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.kicker {
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 750;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.hero h2 {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0.65rem 0;
+  font-size: clamp(2rem, 5vw, 3.6rem);
+  letter-spacing: -0.065em;
+  line-height: 1.05;
+}
+.hero h2 span {
+  color: var(--accent);
+}
+.hero p,
+.sectionIntro p {
+  max-width: 42rem;
+  color: var(--muted);
+  line-height: 1.65;
+  margin: 0.6rem 0 0;
+}
+.checked {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.45rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.checked strong {
+  color: var(--text);
+  font-size: 1.35rem;
+  letter-spacing: -0.04em;
+}
+.checked small {
+  font-size: 0.72rem;
+}
+.tabs {
+  display: flex;
+  gap: 0.35rem;
+  padding: 1rem 0;
+  flex-wrap: wrap;
+}
+.tabs button {
+  border: 1px solid var(--line);
+  border-radius: 100px;
+  background: var(--panel);
+  color: var(--text);
+  display: flex;
+  gap: 1.3rem;
+  align-items: center;
+  padding: 0.85rem 1.3rem;
+  cursor: pointer;
+  font-size: 0.92rem;
+  font-weight: 650;
+}
+.tabs button span {
+  color: var(--muted);
+  font-size: 0.7rem;
+}
+.tabs button[aria-pressed='true'] {
+  background: var(--accent-solid);
+  color: var(--accent-ink);
+  border-color: var(--accent-solid);
+}
+.tabs button[aria-pressed='true'] span {
+  color: inherit;
+  opacity: 0.75;
+}
+.content {
+  padding: 1.5rem 0;
+}
+.sectionIntro {
+  margin-bottom: 1.5rem;
+}
+.sectionIntro h3 {
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  line-height: 1.15;
+  margin: 0.55rem 0;
+  letter-spacing: -0.045em;
+}
+.calculator {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(250px, 0.9fr);
+  gap: 1.5rem 2.5rem;
+}
+.fieldGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.form label,
+.directoryFilters label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-size: 0.83rem;
+  font-weight: 650;
+  min-width: 0;
+}
+.services select,
+.services input:not([type='checkbox']) {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 0.8rem 0.9rem;
+  font: inherit;
+  font-weight: 450;
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 0.7rem;
+  min-height: 44px;
+}
+.services select:disabled {
+  opacity: 0.55;
+}
+.checks {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1.3rem 0;
+}
+.checks label {
+  display: flex;
+  flex-direction: row;
+  gap: 0.65rem;
+  align-items: flex-start;
+  font-size: 0.82rem;
+  font-weight: 450;
+  line-height: 1.5;
+}
+.checks input {
+  flex-shrink: 0;
+  margin-top: 0.2rem;
+  width: 17px;
+  height: 17px;
+  accent-color: var(--accent-solid);
+}
+.pointsField {
+  max-width: 25rem;
+  margin-bottom: 1rem;
+}
+.pointsField small {
+  color: var(--muted);
+  font-weight: 450;
+}
+.primary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2.5rem;
+  padding: 0.9rem 1.2rem;
+  background: var(--accent-solid);
+  color: var(--accent-ink);
+  border: 0;
+  border-radius: 0.75rem;
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+  min-height: 48px;
+}
+.result {
+  border-radius: 1.2rem;
+  padding: 1.5rem;
+  border: 1px solid var(--line);
+  background: var(--tint);
+  align-self: start;
+  position: sticky;
+  top: 1rem;
+  min-width: 0;
+}
+.result h4 {
+  font-size: 1.1rem;
+  margin: 1rem 0 0.5rem;
+}
+.amount {
+  font-size: clamp(1.9rem, 3.1vw, 3rem);
+  letter-spacing: -0.06em;
+  font-weight: 780;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+.result p {
+  font-size: 0.86rem;
+  line-height: 1.65;
+  color: var(--muted);
+}
+.result a,
+.services a {
+  color: var(--accent);
+  text-underline-offset: 0.2em;
+  overflow-wrap: anywhere;
+}
+.result > a {
+  font-size: 0.83rem;
+}
+.breakdown {
+  font-size: 0.78rem;
+  margin: 1.3rem 0;
+}
+.breakdown div {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  padding: 0.7rem 0;
+  border-top: 1px solid var(--line);
+}
+.breakdown dt {
+  color: var(--muted);
+}
+.breakdown dd {
+  margin: 0;
+  max-width: 55%;
+  text-align: right;
+  line-height: 1.4;
+}
+.result .resultNote {
+  font-size: 0.75rem;
+  margin: 1.3rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+.sourceDetails {
+  grid-column: 1/-1;
+  border-top: 1px solid var(--line);
+  padding: 1.3rem 0;
+  font-size: 0.84rem;
+  line-height: 1.7;
+  color: var(--muted);
+}
+.sourceDetails summary {
+  color: var(--text);
+  font-weight: 650;
+  cursor: pointer;
+}
+.sourceDetails ul {
+  padding-left: 1.2rem;
+}
+.sourceDetails li {
+  margin: 0.4rem 0;
+}
+.switcher {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.switcher button {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--muted);
+  border-radius: 0.65rem;
+  padding: 0.8rem 1rem;
+  font: inherit;
+  font-size: 0.86rem;
+  cursor: pointer;
+}
+.switcher button[aria-pressed='true'] {
+  background: var(--tint);
+  color: var(--accent);
+  border-color: var(--accent);
+}
+.directoryFilters {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr) minmax(0, 0.75fr);
+  gap: 1rem;
+}
+.coverage {
+  font-size: 0.78rem;
+  line-height: 1.65;
+  color: var(--muted);
+  padding: 1rem 0;
+}
+.coverage p {
+  margin: 0;
+}
+.coverage a {
+  margin-right: 0.6rem;
+}
+.labDirectory {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.2rem;
+  margin: 0 0 1rem;
+  border-left: 3px solid var(--accent);
+  background: var(--tint);
+  border-radius: 0 0.7rem 0.7rem 0;
+  font-size: 0.8rem;
+}
+.labDirectory strong {
+  font-size: 0.86rem;
+}
+.labDirectory p {
+  color: var(--muted);
+  line-height: 1.6;
+  margin: 0.35rem 0 0;
+  max-width: 36rem;
+}
+.labDirectory > a {
+  flex-shrink: 0;
+  max-width: 14rem;
+}
+.resultsLine {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.resultsLine button,
+.empty button {
+  background: none;
+  border: 0;
+  padding: 0.5rem 0;
+  font: inherit;
+  color: var(--accent);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.people {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.person {
+  display: flex;
+  gap: 1rem;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 1rem;
+  padding: 1.25rem;
+  min-width: 0;
+}
+.personInitial {
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  background: var(--tint);
+  color: var(--accent);
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.personBody {
+  min-width: 0;
+}
+.personRole {
+  font-size: 0.75rem;
+  color: var(--muted);
+  line-height: 1.45;
+  display: block;
+}
+.person h4 {
+  margin: 0.35rem 0 0.7rem;
+  font-size: 1rem;
+  line-height: 1.35;
+  letter-spacing: -0.02em;
+  overflow-wrap: anywhere;
+}
+.facultyTag {
+  margin: 0.3rem 0;
+  color: var(--accent);
+  font-size: 0.7rem;
+  font-weight: 750;
+  letter-spacing: 0.04em;
+}
+.office,
+.personNote {
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.contactLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  font-size: 0.79rem;
+}
+.contactLinks span {
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+.sourceLink {
+  display: inline-block;
+  margin-top: 0.7rem;
+  font-size: 0.73rem;
+}
+.empty {
+  padding: 2rem;
+  border: 1px dashed var(--line);
+  border-radius: 1rem;
+}
+.empty h4 {
+  margin: 0 0 0.5rem;
+}
+.empty p {
+  color: var(--muted);
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  font-size: 0.82rem;
+}
+.pagination button {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 0.6rem;
+  font: inherit;
+  cursor: pointer;
+}
+.pagination button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.timeline {
+  list-style: none;
+  margin: 2rem 0;
+  padding: 0;
+}
+.timeline li {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  gap: 2rem;
+  padding: 1.7rem 0;
+  border-top: 1px solid var(--line);
+}
+.year {
+  font-size: 2rem;
+  letter-spacing: -0.06em;
+  color: var(--accent);
+  font-weight: 750;
+}
+.historyBranch {
+  color: var(--muted);
+  text-transform: uppercase;
+  font-size: 0.64rem;
+  letter-spacing: 0.1em;
+}
+.timeline h4 {
+  margin: 0.5rem 0;
+  font-size: 1.15rem;
+  letter-spacing: -0.025em;
+}
+.timeline p {
+  margin: 0.5rem 0 0;
+  color: var(--muted);
+  line-height: 1.7;
+  max-width: 40rem;
+  font-size: 0.9rem;
+}
+.footer {
+  border-top: 1px solid var(--line);
+  padding: 1rem 0;
+  color: var(--muted);
+  font-size: 0.73rem;
+  line-height: 1.6;
+}
+.services :is(button, a, input, select, summary):focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 4px;
+}
+@media (max-width: 850px) {
+  .calculator {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+  .result {
+    position: static;
+  }
+  .directoryFilters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .directoryFilters label:first-child {
+    grid-column: 1/-1;
+  }
+}
+@media (max-width: 600px) {
+  .hero {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1.5rem 0;
+  }
+  .checked {
+    border-left: 2px solid var(--accent);
+    padding-left: 0.8rem;
+  }
+  .checked strong {
+    font-size: 1rem;
+  }
+  .checked small {
+    display: none;
+  }
+  .checked span {
+    font-size: 0.68rem;
+  }
+  .tabs button {
+    padding: 0.7rem 0.95rem;
+    gap: 0.8rem;
+    font-size: 0.8rem;
+  }
+  .fieldGrid,
+  .directoryFilters,
+  .people {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .person {
+    padding: 1rem;
+    gap: 0.75rem;
+  }
+  .timeline li {
+    grid-template-columns: 3.5rem minmax(0, 1fr);
+    gap: 1rem;
+  }
+  .year {
+    font-size: 1.5rem;
+  }
+  .timeline h4 {
+    font-size: 1rem;
+  }
+  .result {
+    padding: 1.2rem;
+  }
+  .resultsLine {
+    font-size: 0.72rem;
+  }
+  .pagination {
+    gap: 0.7rem;
+  }
+  .pagination button {
+    padding: 0.7rem;
+  }
+  .labDirectory {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .services * {
+    scroll-behavior: auto;
+  }
+}

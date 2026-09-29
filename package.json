@@ -1,0 +1,44 @@
+{
+  "name": "pocketuust",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "vite",
+    "check": "tsc --noEmit",
+    "build": "npm run check && vite build",
+    "preview": "vite preview",
+    "start": "node --env-file-if-exists=.env scripts/serve.mjs",
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "fetch-news:official": "node scripts/fetch-news.mjs --official",
+    "test:news": "node --test scripts/news-utils.test.mjs scripts/news-runtime.test.mjs scripts/news-client.test.mjs",
+    "test:navigation": "node --test scripts/navigation.test.mjs",
+    "test:theme": "node --test scripts/theme.test.mjs",
+    "test:schedule": "node --env-file-if-exists=.env --test services/schedule/tests/*.test.mjs scripts/schedule-integration.test.mjs scripts/schedule-view.test.mjs scripts/schedule-client.test.mjs",
+    "schedule:sync": "node services/schedule/manage.mjs sync",
+    "schedule:link-room": "node services/schedule/manage.mjs link-room",
+    "schedule:backup": "node services/schedule/manage.mjs backup",
+    "test": "node --env-file-if-exists=.env --test scripts/*.test.mjs services/schedule/tests/*.test.mjs services/campus/tests/*.test.mjs services/assistant/tests/*.test.mjs src/features/community/*.test.mjs src/features/services/*.test.mjs",
+    "test:campus": "node --test services/campus/tests/*.test.mjs scripts/campus-client.test.mjs scripts/assistant.test.mjs",
+    "seed:test-accounts": "node --env-file-if-exists=.env scripts/seed-test-accounts.mjs test-accounts.txt",
+    "package:case": "node scripts/package-case.mjs",
+    "format": "prettier --write src services scripts docs *.md *.json *.ts index.html",
+    "check:production": "node --env-file-if-exists=.env scripts/check-production.mjs"
+  },
+  "dependencies": {
+    "nodemailer": "^7.0.10",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.1",
+    "prettier": "3.6.2",
+    "typescript": "5.9.3",
+    "vite": "8.3.1"
+  }
+}

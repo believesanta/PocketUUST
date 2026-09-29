@@ -1,0 +1,8 @@
+node_modules
+dist
+.runtime
+.local-tools
+artifacts
+releases
+src/features/services/teachers.json
+src/features/student-life/student-life.json
